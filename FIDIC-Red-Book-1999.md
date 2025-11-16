@@ -1,69 +1,83 @@
+# Page 1
 
-================================================================================
-PAGE 1
-================================================================================
 Fédération Internationale des Ingénieurs-Conseils
 International Federation of Consulting Engineers
 Internationale Vereinigung Beratender Ingenieure
 Federación Internacional de Ingenieros Consultores
 Conditions of Contract for
-Construction
+Construction 
+       
 FOR BUILDING AND ENGINEERING WORKS DESIGNED BY THE EMPLOYER
 GENERAL CONDITIONS
 PARTICULAR CONDITIONS
 SAMPLE FORMS
-ISBN 2 – 88432 – 022 – 9 FIRST EDITION 1999
+ISBN 2 – 88432 – 022 – 9                                                                         FIRST EDITION 1999
 
-================================================================================
-PAGE 2
-================================================================================
-GENERALCONDITIONS
-GUIDANCE FOR THE
-PREPARATION OF
-PARTICULAR CONDITIONS
-Conditions of Contract
-FORMS OF LETTEROF
-for CONSTRUCTION TENDER, CONTRACT
-AGREEMENT AND
-DISPUTE ADJUDICATION
-FOR BUILDING AND ENGINEERING WORKS
-AGREEMENT
-DESIGNED BY THE EMPLOYER
-First Edition 1999
-ISBN 2-88432-022-9
+
+---
+
+# Page 2
+
 FEDERATION INTERNATIONALE DES INGENIEURS-CONSEILS
 INTERNATIONAL FEDERATION OF CONSULTING ENGINEERS
 INTERNATIONALE VEREINIGUNG BERATENDER INGENIEURE
 FEDERACION INTERNACIONAL DE INGENIEROS CONSOLTORES
+GENERAL CONDITIONS
+GUIDANCE FOR THE
+PREPARATION OF
+PARTICULAR CONDITIONS
+FORMS OF LETTER OF
+TENDER, CONTRACT
+AGREEMENT AND 
+DISPUTE ADJUDICATION
+AGREEMENT
+Conditions of Contract
+for CONSTRUCTION
+FOR BUILDING AND ENGINEERING WORKS
+DESIGNED BY THE EMPLOYER
+First Edition 1999
+ISBN 2-88432-022-9 
 
-================================================================================
-PAGE 3
-================================================================================
+
+---
+
+# Page 3
+
 ERRATA to the First Edition, 1999
 The following significant errata are corrected in this reprinting of the First Edition of the
 Construction Contract. Several minor typographical errors and layout irregularities
 have also been corrected.
 GENERAL PROVISIONS
-Foreword In figure “Typical sequence of Payment Events envisaged in Clause 14”,
+Foreword
+In figure “Typical sequence of Payment Events envisaged in Clause 14”,
 change “14.11 Contractor issues Final Statement ...” to “Contractor
 submits Final Statement ...”.
-Page 2 In the middle of the third line of Sub-Clause 1.1.2.9, delete “under”.
-Page 26 In the title of Sub-Clause 8.1, substitute “Works” for “Work”.
-Page 56 In the penultimate line, delete the parentheses “(“ and “)”.
-Page 60 Sub-Clause 20.3, in the line following sub-paragraph (d), delete
+Page 2
+In the middle of the third line of Sub-Clause 1.1.2.9, delete “under”.
+Page 26
+In the title of Sub-Clause 8.1, substitute “Works” for “Work”.
+Page 56
+In the penultimate line, delete the parentheses “(“ and “)”.
+Page 60
+Sub-Clause 20.3, in the line following sub-paragraph (d), delete
 “Particular Conditions” and substitute “Appendix to Tender”.
-Page 68 In the third line of Clause 9, delete the two words “notice to”.
-GUIDANCE FORTHEPREPARATION OF PARTICULAR CONDITIONS
-Page 14 Under Sub-Clause 14.9, delete “EXEMPTION” and substitute
+Page 68
+In the third line of Clause 9, delete the two words “notice to”.
+GUIDANCE FOR THE PREPARATION OF PARTICULAR CONDITIONS
+Page 14
+Under Sub-Clause 14.9, delete “EXEMPTION” and substitute
 “RETENTION”.
-Annexes Delete “© FIDIC”.
+Annexes
+Delete “© FIDIC”.
 
-================================================================================
-PAGE 4
-================================================================================
+
+---
+
+# Page 4
+
 ACKNOWLEDGEMENTS
 Fédération Internationale des Ingénieurs-Conseils (FIDIC) extends special
-thanks to the following members of its Update Task Group: Christopher Wade
+thanks to the following members of its Update Task Group:  Christopher Wade
 (Group Leader), SWECO-VBB, Sweden; Peter L Booen (Principal Drafter),
 GIBB Ltd, UK; Hermann Bayerlein, Fichtner, Germany; Christopher R Seppala
 (Legal Adviser), White & Case, France; and José F Speziale, IATASA, Argentina.
@@ -74,7 +88,7 @@ and Axel-Volkmar Jaeger, Schmidt Reuter Partner, Germany; together with K
 B (Tony) Norris as Special Adviser.
 Drafts were reviewed by many persons and organisations, including those listed
 below. Their comments were duly studied by the Update Task Group and, where
-considered appropriate, have influenced the wording of the clauses. Ihab Abu-Zahra,
+considered appropriate, have influenced the wording of the clauses.  Ihab Abu-Zahra,
 CRC – Hassan Dorra, Egypt; Mushtaq Ahmad, NESPAK, Pakistan; Peter Batty, Post
 Buckley International, USA; Roeland Bertrams, Clifford Chance, Netherlands; Bosen
 He, Tianjin University, China; Manfred Breege, Lahmeyer International, Germany;
@@ -98,9 +112,11 @@ approve of the wording of all clauses.
 FIDIC wishes to record its appreciation of the time and effort devoted by all the above.
 The ultimate decision on the form and content of the document rests with FIDIC.
 
-================================================================================
-PAGE 5
-================================================================================
+
+---
+
+# Page 5
+
 FOREWORD
 The Fédération Internationale des Ingénieurs-Conseils (FIDIC) published, in 1999, First
 Editions of four new standard forms of contract:
@@ -121,8 +137,8 @@ and/or construction works.
 Conditions of Contract for EPC/Turnkey Projects,
 which may be suitable for the provision on a turnkey basis of a process or
 power plant, of a factory or similar facility, or of an infrastructure project or other
-type of development, where (i) a higher degree of certainty of final price and
-time is required, and (ii) the Contractor takes total responsibility for the design
+type of development, where  (i) a higher degree of certainty of final price and
+time is required, and  (ii) the Contractor takes total responsibility for the design
 and execution of the project, with little involvement of the Employer. Under the
 usual arrangements for turnkey projects, the Contractor carries out all the
 Engineering, Procurement and Construction (EPC), providing a fully-equipped
@@ -145,9 +161,11 @@ In the preparation of these Conditions of Contract for Construction, it was reco
 that, while there are many sub-clauses which will be generally applicable, there are
 some sub-clauses which must necessarily vary to take account of the circumstances
 
-================================================================================
-PAGE 6
-================================================================================
+
+---
+
+# Page 6
+
 relevant to the particular contract. The sub-clauses which were considered to be
 applicable to many (but not all) contracts have been included in the General
 Conditions, in order to facilitate their incorporation into each contract.
@@ -157,21 +175,26 @@ necessary to prepare the Particular Conditions for each individual contract, and
 take account of those sub-clauses in the General Conditions which mention the
 Particular Conditions.
 For this publication, the General Conditions were prepared on the following basis:
-(i) interim and final payments will be determined by measurement, applying the
+(i)
+interim and final payments will be determined by measurement, applying the
 rates and prices in a Bill of Quantities;
-(ii) if the wording in the General Conditions necessitates further data, then (unless
+(ii)
+if the wording in the General Conditions necessitates further data, then (unless
 it is so descriptive that it would have to be detailed in the Specification) the sub-
 clause makes reference to this data being contained in the Appendix to Tender,
 the data either being prescribed by the Employer or being inserted by the
 Tenderer;
-(iii) where a sub-clause in the General Conditions deals with a matter on which
+(iii)
+where a sub-clause in the General Conditions deals with a matter on which
 different contract terms are likely to be applicable for different contracts, the
 principles applied in writing the sub-clause were:
-(a) users would find it more convenient if any provisions which they did not
+(a)
+users would find it more convenient if any provisions which they did not
 wish to apply could simply be deleted or not invoked, than if additional
 text had to be written (in the Particular Conditions) because the General
-Conditions did not cover their requirements; or
-(b) in other cases, where the application of (a) was thought to be
+Conditions did not cover their requirements;  or
+(b)
+in other cases, where the application of (a) was thought to be
 inappropriate, the sub-clause contains the provisions which were
 considered applicable to most contracts.
 For example, Sub-Clause 14.2 [Advance Payment] is included for convenience, not
@@ -191,9 +214,11 @@ additions are made, care must be taken to ensure that no ambiguity is created, e
 with the General Conditions or between the clauses in the Particular Conditions. It is
 essential that all these drafting tasks, and the entire preparation of the tender
 
-================================================================================
-PAGE 7
-================================================================================
+
+---
+
+# Page 7
+
 documents, are entrusted to personnel with the relevant expertise, including the
 contractual, technical and procurement aspects.
 This publication concludes with example forms for the Letter of Tender, the Appendix
@@ -211,534 +236,729 @@ In order to clarify the sequence of Contract activities, reference may be made t
 charts on the next two pages and to the Sub-Clauses listed below (some Sub-Clause
 numbers are also stated in the charts). The charts are illustrative and must not be
 taken into consideration in the interpretation of the Conditions of Contract.
-1.1.3.1 & 13.7 Base Date
-1.1.3.2 & 8.1 Commencement Date
-1.1.6.6 & 4.2 Performance Security
-1.1.4.7 & 14.3 Interim Payment Certificate
-1.1.3.3 & 8.2 Time for Completion (as extended under 8.4)
-1.1.3.4 & 9.1 Tests on Completion
-1.1.3.5 & 10.1 Taking-Over Certificate
-1.1.3.7 & 11.1 Defects Notification Period (as extended under 11.3)
-1.1.3.8 & 11.9 Performance Certificate
-1.1.4.4 & 14.13 Final Payment Certificate
+1.1.3.1  & 
+13.7
+Base Date
+1.1.3.2  &   8.1
+Commencement Date
+1.1.6.6  &   4.2
+Performance Security
+1.1.4.7  &  14.3
+Interim Payment Certificate
+1.1.3.3  &   8.2
+Time for Completion (as extended under 8.4)
+1.1.3.4  &   9.1
+Tests on Completion
+1.1.3.5  &  10.1
+Taking-Over Certificate
+1.1.3.7  &  11.1
+Defects Notification Period (as extended under 11.3)
+1.1.3.8  &  11.9
+Performance Certificate
+1.1.4.4  &  14.13
+Final Payment Certificate
 
-================================================================================
-PAGE 8
-================================================================================
-Issue of the Submission Issue of the 8.1 10.1 Issue of 11.9 Issue of the
-Tender of the Letter of Commencement Taking-Over Performance
-Documents Tender Acceptance Date Certificate Certificate
-Base Defects
-Date 8.2 Time for Notification
-Completion1 Period3
-28d <28d Delay attributable 11 Notifying <21d
-to the of Defects
-Contractor2
-Tender 4.2 Issue of the 9.1 Tests on Remedying
-period Performance Security Completion2 of Defects
+
+---
+
+# Page 8
+
+Issue of the
+Tender
+Documents
+Base
+Date
+Submission
+of the
+Tender
+Issue of the
+Letter of
+Acceptance
+8.1
+Commencement
+Date
+8.2 Time for
+Completion 1
+10.1 Issue of
+Taking-Over
+Certificate
+4.2 Issue of the
+Performance Security
 4.2 Return of
 the Performance
 Security
+Remedying
+of Defects
+Delay attributable
+to the
+Contractor 2
+Tender
+period
+11.9 Issue of the
+Performance
+Certificate
+9.1 Tests on
+Completion 2
+11 Notifying
+of Defects
+Defects
+Notification
+Period 3
+28d
+<28d
+<21d
 Typical sequence of Principal Events during Contracts for Construction
-1. The Time for Completion is to be stated (in the Appendix to Tender) as a number of days, to which is added
+1.
+The Time for Completion is to be stated (in the Appendix to Tender) as a number of days, to which is added
 any extensions of time under Sub-Clause 8.4.
-2. In order to indicate the sequence of events, the above diagram is based upon the example of the Contractor
+2. 
+In order to indicate the sequence of events, the above diagram is based upon the example of the Contractor
 failing to comply with Sub-Clause 8.2.
-3. The Defects Notification Period is to be stated (in the Appendix to Tender) as a number of days, to which is
+3. 
+The Defects Notification Period is to be stated (in the Appendix to Tender) as a number of days, to which is
 added any extensions under Sub-Clause 11.3
 
-================================================================================
-PAGE 9
-================================================================================
-14.3 Contractor 14.6 Engineer 14.7 Employer makes
-submits Statement issues Interim the payment to the
-to the Engineer Payment Certificate Contractor
-Each of the
+
+---
+
+# Page 9
+
+© FIDIC 1999
+14.3 Contractor
+submits Statement
+to the Engineer
+14.6 Engineer
+issues Interim
+Payment Certificate
+14.7 Employer makes
+the payment to the
+Contractor
+14.11 Contractor submits
+Final Statement and the
+14.12 discharge
+14.7 Employer
+makes payment
+14.11 Contractor submits
+draft final statement to the
+Engineer
+<28d
 <56d
+Typical sequence of Dispute Events envisaged in Clause 20
+Typical sequence of Payment Events envisaged in Clause 14
+14.13 Engineer issues
+Final Payment
+Certificate
+<28d
+Engineer verifies
+statement, Contractor
+submits information
+Each of the
 monthly (or
 otherwise)
 interim
-<28d
 payments
-The final Engineer verifies
-payment statement, Contractor
-submits information <28d <56d
-14.11 Contractor submits 14.11 Contractor submits 14.13 Engineer issues 14.7 Employer
-draft final statement to the Final Statement and the Final Payment makes payment
-Engineer 14.12 discharge Certificate
-Typical sequence of Payment Events envisaged in Clause 14
-8.1 20.2 Parties 20.4 A Party refers 20.4 A Party may 20.6 A Party
-Commencement appoint the a dispute to the issue a “notice of mayinitiate
-Date DAB DAB dissatisfaction” arbitration
-Parties present Amicable
-submissions to the DAB settlement
-<28d <84d <28d >56d
-DAB gives Arbitrator/s
-its decision appointed
-Typical sequence of Dispute Events envisaged in Clause 20
-© FIDIC 1999
+The final
+payment
+8.1
+Commencement
+Date
+20.2 Parties
+appoint the
+DAB
+20.4 A Party refers
+a dispute to the
+DAB
+Arbitrator/s
+appointed
+>56d
+DAB gives
+its decision
+<28d
+20.6 A Party
+may initiate
+arbitration
+20.4 A Party may
+issue a “notice of
+dissatisfaction”
+Parties present
+submissions to the DAB
+<28d
+<84d
+<56d
+Amicable
+settlement
 
-================================================================================
-PAGE 10
-================================================================================
 
+---
 
-================================================================================
-PAGE 11
-================================================================================
+# Page 10
 
 
-================================================================================
-PAGE 12
-================================================================================
 
+---
 
-================================================================================
-PAGE 13
-================================================================================
+# Page 11
 
 
-================================================================================
-PAGE 14
-================================================================================
 
+---
 
-================================================================================
-PAGE 15
-================================================================================
+# Page 12
 
 
-================================================================================
-PAGE 16
-================================================================================
 
+---
 
-================================================================================
-PAGE 17
-================================================================================
+# Page 13
 
 
-================================================================================
-PAGE 18
-================================================================================
 
+---
 
-================================================================================
-PAGE 19
-================================================================================
+# Page 14
 
 
-================================================================================
-PAGE 20
-================================================================================
 
+---
 
-================================================================================
-PAGE 21
-================================================================================
+# Page 15
 
 
-================================================================================
-PAGE 22
-================================================================================
 
+---
 
-================================================================================
-PAGE 23
-================================================================================
+# Page 16
 
 
-================================================================================
-PAGE 24
-================================================================================
 
+---
 
-================================================================================
-PAGE 25
-================================================================================
+# Page 17
 
 
-================================================================================
-PAGE 26
-================================================================================
 
+---
 
-================================================================================
-PAGE 27
-================================================================================
+# Page 18
 
 
-================================================================================
-PAGE 28
-================================================================================
 
+---
 
-================================================================================
-PAGE 29
-================================================================================
+# Page 19
 
 
-================================================================================
-PAGE 30
-================================================================================
 
+---
 
-================================================================================
-PAGE 31
-================================================================================
+# Page 20
 
 
-================================================================================
-PAGE 32
-================================================================================
 
+---
 
-================================================================================
-PAGE 33
-================================================================================
+# Page 21
 
 
-================================================================================
-PAGE 34
-================================================================================
 
+---
 
-================================================================================
-PAGE 35
-================================================================================
+# Page 22
 
 
-================================================================================
-PAGE 36
-================================================================================
 
+---
 
-================================================================================
-PAGE 37
-================================================================================
+# Page 23
 
 
-================================================================================
-PAGE 38
-================================================================================
 
+---
 
-================================================================================
-PAGE 39
-================================================================================
+# Page 24
 
 
-================================================================================
-PAGE 40
-================================================================================
 
+---
 
-================================================================================
-PAGE 41
-================================================================================
+# Page 25
 
 
-================================================================================
-PAGE 42
-================================================================================
 
+---
 
-================================================================================
-PAGE 43
-================================================================================
+# Page 26
 
 
-================================================================================
-PAGE 44
-================================================================================
 
+---
 
-================================================================================
-PAGE 45
-================================================================================
+# Page 27
 
 
-================================================================================
-PAGE 46
-================================================================================
 
+---
 
-================================================================================
-PAGE 47
-================================================================================
+# Page 28
 
 
-================================================================================
-PAGE 48
-================================================================================
 
+---
 
-================================================================================
-PAGE 49
-================================================================================
+# Page 29
 
 
-================================================================================
-PAGE 50
-================================================================================
 
+---
 
-================================================================================
-PAGE 51
-================================================================================
+# Page 30
 
 
-================================================================================
-PAGE 52
-================================================================================
 
+---
 
-================================================================================
-PAGE 53
-================================================================================
+# Page 31
 
 
-================================================================================
-PAGE 54
-================================================================================
 
+---
 
-================================================================================
-PAGE 55
-================================================================================
+# Page 32
 
 
-================================================================================
-PAGE 56
-================================================================================
 
+---
 
-================================================================================
-PAGE 57
-================================================================================
+# Page 33
 
 
-================================================================================
-PAGE 58
-================================================================================
 
+---
 
-================================================================================
-PAGE 59
-================================================================================
+# Page 34
 
 
-================================================================================
-PAGE 60
-================================================================================
 
+---
 
-================================================================================
-PAGE 61
-================================================================================
+# Page 35
 
 
-================================================================================
-PAGE 62
-================================================================================
 
+---
 
-================================================================================
-PAGE 63
-================================================================================
+# Page 36
 
 
-================================================================================
-PAGE 64
-================================================================================
 
+---
 
-================================================================================
-PAGE 65
-================================================================================
+# Page 37
 
 
-================================================================================
-PAGE 66
-================================================================================
 
+---
 
-================================================================================
-PAGE 67
-================================================================================
+# Page 38
 
 
-================================================================================
-PAGE 68
-================================================================================
 
+---
 
-================================================================================
-PAGE 69
-================================================================================
+# Page 39
 
 
-================================================================================
-PAGE 70
-================================================================================
 
+---
 
-================================================================================
-PAGE 71
-================================================================================
+# Page 40
 
 
-================================================================================
-PAGE 72
-================================================================================
 
+---
 
-================================================================================
-PAGE 73
-================================================================================
+# Page 41
 
 
-================================================================================
-PAGE 74
-================================================================================
 
+---
 
-================================================================================
-PAGE 75
-================================================================================
+# Page 42
 
 
-================================================================================
-PAGE 76
-================================================================================
 
+---
 
-================================================================================
-PAGE 77
-================================================================================
+# Page 43
 
 
-================================================================================
-PAGE 78
-================================================================================
 
+---
 
-================================================================================
-PAGE 79
-================================================================================
+# Page 44
 
 
-================================================================================
-PAGE 80
-================================================================================
 
+---
 
-================================================================================
-PAGE 81
-================================================================================
+# Page 45
 
 
-================================================================================
-PAGE 82
-================================================================================
 
+---
 
-================================================================================
-PAGE 83
-================================================================================
+# Page 46
 
 
-================================================================================
-PAGE 84
-================================================================================
 
+---
 
-================================================================================
-PAGE 85
-================================================================================
+# Page 47
 
 
-================================================================================
-PAGE 86
-================================================================================
 
+---
 
-================================================================================
-PAGE 87
-================================================================================
+# Page 48
 
 
-================================================================================
-PAGE 88
-================================================================================
 
+---
 
-================================================================================
-PAGE 89
-================================================================================
+# Page 49
 
 
-================================================================================
-PAGE 90
-================================================================================
 
+---
 
-================================================================================
-PAGE 91
-================================================================================
-GENERALCONDITIONS
-GUIDANCE FOR THE
-PREPARATION OF
-PARTICULAR CONDITIONS
-Conditions of Contract
-FORMS OF LETTER OF
-for CONSTRUCTION TENDER, CONTRACT
-AGREEMENT AND
-DISPUTE ADJUDICATION
-FOR BUILDING AND ENGINEERING WORKS
-AGREEMENT
-DESIGNED BY THE EMPLOYER
-Guidance for the Preparation of Particular
-Conditions
+# Page 50
+
+
+
+---
+
+# Page 51
+
+
+
+---
+
+# Page 52
+
+
+
+---
+
+# Page 53
+
+
+
+---
+
+# Page 54
+
+
+
+---
+
+# Page 55
+
+
+
+---
+
+# Page 56
+
+
+
+---
+
+# Page 57
+
+
+
+---
+
+# Page 58
+
+
+
+---
+
+# Page 59
+
+
+
+---
+
+# Page 60
+
+
+
+---
+
+# Page 61
+
+
+
+---
+
+# Page 62
+
+
+
+---
+
+# Page 63
+
+
+
+---
+
+# Page 64
+
+
+
+---
+
+# Page 65
+
+
+
+---
+
+# Page 66
+
+
+
+---
+
+# Page 67
+
+
+
+---
+
+# Page 68
+
+
+
+---
+
+# Page 69
+
+
+
+---
+
+# Page 70
+
+
+
+---
+
+# Page 71
+
+
+
+---
+
+# Page 72
+
+
+
+---
+
+# Page 73
+
+
+
+---
+
+# Page 74
+
+
+
+---
+
+# Page 75
+
+
+
+---
+
+# Page 76
+
+
+
+---
+
+# Page 77
+
+
+
+---
+
+# Page 78
+
+
+
+---
+
+# Page 79
+
+
+
+---
+
+# Page 80
+
+
+
+---
+
+# Page 81
+
+
+
+---
+
+# Page 82
+
+
+
+---
+
+# Page 83
+
+
+
+---
+
+# Page 84
+
+
+
+---
+
+# Page 85
+
+
+
+---
+
+# Page 86
+
+
+
+---
+
+# Page 87
+
+
+
+---
+
+# Page 88
+
+
+
+---
+
+# Page 89
+
+
+
+---
+
+# Page 90
+
+
+
+---
+
+# Page 91
+
 FEDERATION INTERNATIONALE DES INGENIEURS-CONSEILS
 INTERNATIONAL FEDERATION OF CONSULTING ENGINEERS
 INTERNATIONALE VEREINIGUNG BERATENDER INGENIEURE
 FEDERACION INTERNACIONAL DE INGENIEROS CONSOLTORES
+GENERAL CONDITIONS
+GUIDANCE FOR THE
+PREPARATION OF
+PARTICULAR CONDITIONS
+FORMS OF LETTER OF
+TENDER, CONTRACT
+AGREEMENT AND 
+DISPUTE ADJUDICATION
+AGREEMENT
+Conditions of Contract
+for CONSTRUCTION
+FOR BUILDING AND ENGINEERING WORKS
+DESIGNED BY THE EMPLOYER
+Guidance for the Preparation of Particular
+Conditions 
 
-================================================================================
-PAGE 92
-================================================================================
+
+---
+
+# Page 92
+
 Guidance
 for the Preparation of Particular Conditions
 CONTENTS
 INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-NOTES ONTHEPREPARATION OF TENDER DOCUMENTS . . . . . . . . . . . . . . 3
-1 General Provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-2 The Employer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-3 The Engineer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-4 The Contractor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
-5 Nominated Subcontractors . . . . . . . . . . . . . . . . . . . . . . . . . . 8
-6 Staff and Labour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
-7 Plant, Materials and Workmanship . . . . . . . . . . . . . . . . . . . . 10
-8 Commencement, Delays and Suspension . . . . . . . . . . . . . . 10
-9 Tests on Completion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-10 Employer’s Taking Over . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-11 Defects Liability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-12 Measurement and Evaluation . . . . . . . . . . . . . . . . . . . . . . . . 11
-13 Variations and Adjustments . . . . . . . . . . . . . . . . . . . . . . . . . 11
-14 Contract Price and Payment . . . . . . . . . . . . . . . . . . . . . . . . 12
-15 Termination by Employer . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
-16 Suspension and Termination by Contractor . . . . . . . . . . . . . . 18
-17 Risk and Responsibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
-18 Insurance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
-19 Force Majeure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
-20 Claims, Disputes and Arbitration . . . . . . . . . . . . . . . . . . . . . 19
-ANNEXES FORMS OF SECURITY . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+NOTES ON THE PREPARATION OF TENDER DOCUMENTS  . . . . . . . . . . . . . . 3
+1
+General Provisions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2
+The Employer  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3
+The Engineer  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4
+The Contractor  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5
+Nominated Subcontractors  . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6
+Staff and Labour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+7
+Plant, Materials and Workmanship  . . . . . . . . . . . . . . . . . . . . 10
+8
+Commencement, Delays and Suspension  . . . . . . . . . . . . . . 10
+9
+Tests on Completion  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+10
+Employer’s Taking Over  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+11
+Defects Liability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+12
+Measurement and Evaluation . . . . . . . . . . . . . . . . . . . . . . . . 11
+13
+Variations and Adjustments  . . . . . . . . . . . . . . . . . . . . . . . . . 11
+14
+Contract Price and Payment  . . . . . . . . . . . . . . . . . . . . . . . . 12
+15
+Termination by Employer  . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+16
+Suspension and Termination by Contractor . . . . . . . . . . . . . . 18
+17
+Risk and Responsibility  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+18
+Insurance  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+19
+Force Majeure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+20
+Claims, Disputes and Arbitration  . . . . . . . . . . . . . . . . . . . . . 19
+ANNEXES
+FORMS OF SECURITY  . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
 1
 
-================================================================================
-PAGE 93
-================================================================================
+
+---
+
+# Page 93
+
+2
 Guidance for the Preparation of Particular Conditions
 INTRODUCTION
 The terms of the Conditions of Contract for Construction have been prepared by the Fédération
@@ -776,11 +996,13 @@ approach to the selection of tenderers and the obtaining and evaluation of tende
 edition was published in 1994. The document is intended to assist the Employer to receive sound
 competitive tenders with a minimum of qualifications. FIDIC intends to update Tendering Procedure
 and to publish a guide to the use of these Conditions of Contract for Construction.
-2
 
-================================================================================
-PAGE 94
-================================================================================
+
+---
+
+# Page 94
+
+3
 Notes on the Preparation of Tender Documents
 The tender documents should be prepared by suitably-qualified engineers who are familiar with the
 technical aspects of the required works, and a review by suitably-qualified lawyers may be
@@ -794,22 +1016,38 @@ matters which the Employer wishes them to take into account when pricing the Bil
 but which are not to form part of the Contract. When the Employer accepts the Letter of Tender,
 the Contract (which then comes into full force and effect) includes these completed Schedules.
 The Specification may include the matters referred to in some or all of the following Sub-Clauses:
-1.8 Requirements for Contractor's Documents
-1.13 Permissions being obtained by the Employer
-2.1 Phased possession of foundations, structures, plant or means of access
-4.1 Contractor's designs
-4.6 Other contractors (and others) on the Site
-4.7 Setting-out points, lines and levels of reference
-4.14 Third parties
-4.18 Environmental constraints
-4.19 Electricity, water, gas and other services available on the Site
-4.20 Employer's Equipment and free-issue material
-5.1 Nominated Subcontractors
-6.6 Facilities for Personnel
-7.2 Samples
-7.4 Testing during manufacture and/or construction
-9.1 Tests on Completion
-13.5 Provisional Sums
+1.8
+Requirements for Contractor's Documents
+1.13
+Permissions being obtained by the Employer
+2.1
+Phased possession of foundations, structures, plant or means of access
+4.1
+Contractor's designs
+4.6
+Other contractors (and others) on the Site
+4.7
+Setting-out points, lines and levels of reference
+4.14
+Third parties
+4.18
+Environmental constraints
+4.19
+Electricity, water, gas and other services available on the Site
+4.20
+Employer's Equipment and free-issue material
+5.1
+Nominated Subcontractors
+6.6
+Facilities for Personnel
+7.2
+Samples
+7.4
+Testing during manufacture and/or construction
+9.1
+Tests on Completion
+13.5
+Provisional Sums
 Many Sub-Clauses in the General Conditions make reference to data being contained in the
 Appendix to Tender, providing a convenient location for the data which is usually required. The
 example form in this publication thus provides a check-list of the data required; but there is no
@@ -826,45 +1064,65 @@ and/or a tender security, these requirements (which apply prior to the Contract 
 should be included in the Instructions to Tenderers: example forms are annexed to this document
 as Annexes A and B. The Instructions may include matters referred to in some or all of the following
 Sub-Clauses:
-4.3 Contractor's Representative (name and curriculum vitae)
-4.9 Quality Assurance system
-9.1 Tests on Completion
-18 Insurances
-20 Resolution of disputes
-3
+4.3
+Contractor's Representative (name and curriculum vitae)
+4.9
+Quality Assurance system
+9.1
+Tests on Completion
+18 
+Insurances
+20 
+Resolution of disputes
 
-================================================================================
-PAGE 95
-================================================================================
-Clause 1 General Provisions
-Sub-Clause 1.1 Definitions
+
+---
+
+# Page 95
+
+4
+except: example text between lines may be copied
+Clause 1
+General Provisions
+Sub-Clause 1.1 
+Definitions
 It may be necessary to amend some of the definitions. For example:
-1.1.3.1 the Base Date could be defined as a particular calendar date
-1.1.4.6 one particular Foreign Currency may be required by the financing institution
-1.1.4.8 a different currency may be required to be the contract Local Currency
-1.1.6.2 the references to "Country" may be inappropriate for a cross-border Site
-Sub-Clause 1.2 Interpretation
+1.1.3.1
+the Base Date could be defined as a particular calendar date
+1.1.4.6
+one particular Foreign Currency may be required by the financing institution
+1.1.4.8
+a different currency may be required to be the contract Local Currency
+1.1.6.2
+the references to "Country" may be inappropriate for a cross-border Site
+Sub-Clause 1.2
+Interpretation
 If the references to "profit" are to be more precisely specified, this Sub-Clause may be varied:
-EXAMPLE At the end of Sub-Clause 1.2, insert:
+EXAMPLE
+At the end of Sub-Clause 1.2, insert:
 In these Conditions, provisions including the expression "Cost plus
 reasonable profit" require this profit to be one-twentieth (5%) of this Cost.
-Sub-Clause 1.5 Priority of Documents
+Sub-Clause 1.5
+Priority of Documents
 An order of precedence is usually necessary, in case a conflict is subsequently found among the
 contract documents. If no order of precedence is to be prescribed, this Sub-Clause may be
 varied:
-EXAMPLE Delete Sub-Clause 1.5 and substitute:
+EXAMPLE 
+Delete Sub-Clause 1.5 and substitute:
 The documents forming the Contract are to be taken as mutually
 explanatory of one another. If an ambiguity or discrepancy is found, the
 priority shall be such as may be accorded by the governing law. The
 Engineer has authority to issue any instruction which he considers
 necessary to resolve an ambiguity or discrepancy.
-Sub-Clause 1.6 Contract Agreement
+Sub-Clause 1.6
+Contract Agreement
 The form of Agreement should be included in the tender documents as an annex to the Particular
 Conditions: an example form is included at the end of this publication. If lengthy tender
 negotiations were necessary, it may be considered advisable for the Contract Agreement to
 record the Accepted Contract Amount, Base Date and/or Commencement Date. Entry into an
 Agreement may be necessary under applicable law.
-Sub-Clause 1.14 Joint and Several Liability
+Sub-Clause 1.14  
+Joint and Several Liability 
 For a major contract, detailed requirements for the joint venture may need to be specified. For
 example, it may be desirable for each member to produce a parent company guarantee: an
 example form is annexed to this document as Annex A.
@@ -872,15 +1130,18 @@ These requirements, which apply prior to the Contract becoming effective, should
 the Instructions to Tenderers. The Employer will wish the leader of the joint venture to be
 appointed at an early stage, providing a single point of contact thereafter, and will not wish to be
 involved in a dispute between the members of a joint venture. The Employer should scrutinise the
-4
-except: example text between lines may be copied
 
-================================================================================
-PAGE 96
-================================================================================
+
+---
+
+# Page 96
+
+5
+except: example text between lines may be copied
 joint venture agreement carefully, and it may have to be approved by the project's financing
 institutions.
-Additional Sub-Clause Details to be Confidential
+Additional Sub-Clause
+Details to be Confidential
 If confidentiality is required, an additional sub-clause may be added:
 EXAMPLE SUB-CLAUSE
 The Contractor shall treat the details of the Contract as private and
@@ -889,82 +1150,105 @@ under it or to comply with applicable Laws. The Contractor shall not
 publish, permit to be published, or disclose any particulars of the Works
 in any trade or technical paper or elsewhere without the previous
 agreement of the Employer.
-Clause 2 The Employer
-Sub-Clause 2.1 Right of Access to the Site
+Clause 2
+The Employer
+Sub-Clause 2.1
+Right of Access to the Site
 If right of access cannot be granted, both early and thereafter exclusively, details should be given
 in the Specification.
-Sub-Clause 2.3 Employer's Personnel
+Sub-Clause 2.3  
+Employer's Personnel
 These provisions should be reflected in the Employer's contracts with any other contractors on the Site.
-Clause 3 The Engineer
-Sub-Clause 3.1 Engineer's Duties and Authority
+Clause 3
+The Engineer
+Sub-Clause 3.1
+Engineer's Duties and Authority
 Any requirements for Employer's approval should be set out in the Particular Conditions:
 EXAMPLE
 The Engineer shall obtain the specific approval of the Employer before
 taking action under the following Sub-Clauses of these Conditions:
-(a) Sub-Clause **
-(b) Sub-Clause **
+(a)  
+Sub-Clause
+**
+(b)
+Sub-Clause
+**
 ** (insert number; describe action, unless all require approval)
 This list should be extended or reduced as necessary. If the obligation to obtain the approval of the
 Employer only applies beyond certain limits, financial or otherwise, the example wording should be
 varied.
-Additional Sub-Clause Management Meetings
+Additional Sub-Clause
+Management Meetings
 EXAMPLE SUB-CLAUSE
 The Engineer or the Contractor's Representative may require the other
 to attend a management meeting in order to review the arrangements for
 future work. The Engineer shall record the business of management
 meetings and supply copies of the record to those attending the meeting
-5
-except: example text between lines may be copied
 
-================================================================================
-PAGE 97
-================================================================================
+
+---
+
+# Page 97
+
+6
+except: example text between lines may be copied
 and to the Employer. In the record, responsibilities for any actions to be
 taken shall be in accordance with the Contract.
-Clause 4 The Contractor
-Sub-Clause 4.1 Contractor's General Obligations
+Clause 4
+The Contractor
+Sub-Clause 4.1
+Contractor's General Obligations
 Occasionally, there may be an item of Temporary Works for which the Contractor will not be fully
 responsible. For example, the Contract may specify temporary arrangements for river diversion
 which have been designed by the Engineer. In these cases, the Sub-Clause may require
 amendment, taking account of the type of this item of Temporary Works, and of the extent of the
 Employer's responsibility.
-Sub-Clause 4.2 Performance Security
+Sub-Clause 4.2
+Performance Security
 The acceptable form(s) of Performance Security should be included in the tender documents,
 annexed to the Particular Conditions. Example forms are annexed to this document as Annex C
 and Annex D. They incorporate two sets of Uniform Rules published by the International Chamber
 of Commerce (the "ICC", which is based at 38 Cours Albert 1er, 75008 Paris, France), which also
 publishes guides to these Uniform Rules. These example forms and the wording of the Sub-Clause
 may have to be amended to comply with applicable law.
-EXAMPLE At the end of the second paragraph of Sub-Clause 4.2, insert:
+EXAMPLE
+At the end of the second paragraph of Sub-Clause 4.2, insert:
 If the Performance Security is in the form of a bank guarantee, it shall
 be issued either (a) by a bank located in the Country, or (b) directly by a
 foreign bank acceptable to the Employer. If the Performance Security is
 not in the form of a bank guarantee, it shall be furnished by a financial
 entity registered, or licensed to do business, in the Country.
-Sub-Clause 4.3 Contractor's Representative
+Sub-Clause 4.3
+Contractor's Representative
 If the Representative is known at the time of submission of the Tender, the Tenderer may propose
 the Representative. The Tenderer may wish to propose alternatives, especially if the contract award
 seems likely to be delayed. If the ruling language is not the same as the language for day to day
 communications (under Sub-Clause 1.4), or if for any other reason it is necessary to stipulate that
 the Contractor's Representative shall be fluent in a particular language, one of the following
 sentences may be added.
-EXAMPLE At the end of Sub-Clause 4.3, add:
+EXAMPLE
+At the end of Sub-Clause 4.3, add:
 The Contractor's Representative and all these persons shall also be
-fluent in (insert name of language)
-EXAMPLE At the end of Sub-Clause 4.3, add:
+fluent in 
+(insert name of language)
+EXAMPLE
+At the end of Sub-Clause 4.3, add:
 If the Contractor's Representative, or these persons, is not fluent in
 (insert name of language), the Contractor shall make a
 competent interpreter available during all working hours.
-Sub-Clause 4.4 Subcontractors
+Sub-Clause 4.4
+Subcontractors
 The wording in the General Conditions includes the conditions which will usually be applicable. If
 less (or no) consent is required, some (or all) of sub-paragraphs (a) to (d) may be deleted, or
 qualified in the Particular Conditions:
-6
-except: example text between lines may be copied
 
-================================================================================
-PAGE 98
-================================================================================
+
+---
+
+# Page 98
+
+7
+except: example text between lines may be copied
 EXAMPLE
 Prior consent shall not be required if the value of the subcontract is less
 than 0.01% of the Accepted Contract Amount.
@@ -978,58 +1262,76 @@ EXAMPLE
 Where practicable, the Contractor shall give a fair and reasonable
 opportunity for contractors from the Country to be appointed as Sub-
 contractors.
-Sub-Clause 4.8 Safety Procedures
+Sub-Clause 4.8
+Safety Procedures
 If the Contractor is sharing occupation of the Site with others, it may not be appropriate for him to
 provide some of the listed items. In these circumstances, the Employer's obligations should be
 specified.
-Sub-Clause 4.9 Quality Assurance
+Sub-Clause 4.9
+Quality Assurance
 The wording in the General Conditions imposes the requirement of a quality assurance system
 in accordance with details specified in the Contract. If inappropriate, this Sub-Clause may be
 deleted.
-Sub-Clause 4.12 Unforeseeable Physical Conditions
+Sub-Clause 4.12
+Unforeseeable Physical Conditions
 In the case of major sub-surface works, the allocation of the risk of sub-surface conditions is an
 aspect which should be considered when tender documents are being prepared. If this risk is to be
 shared between the parties, the Sub-Clause may be amended:
-EXAMPLE Delete sub-paragraph (b) of Sub-Clause 4.12 and substitute:
-(b) payment for any such Cost, per cent ( %) of
+EXAMPLE
+Delete sub-paragraph (b) of Sub-Clause 4.12 and substitute:
+(b)
+payment for any such Cost, 
+per cent (
+%) of
 which shall be included in the Contract Price (the balance
 percent of the Cost shall be borne by the Contractor).
-Sub-Clause 4.17 Contractor's Equipment
+Sub-Clause 4.17
+Contractor's Equipment
 If the Contractor is not to provide all the Contractor's Equipment necessary to complete the Works,
 the Employer's obligations should be specified: see Sub-Clause 4.20. If vesting of Contractor's
 Equipment is required, further paragraphs may be added, subject to their being consistent with
 applicable laws:
-EXAMPLE At the end of Sub-Clause 4.17, add the following paragraphs:
+EXAMPLE
+At the end of Sub-Clause 4.17, add the following paragraphs:
 Contractor's Equipment which is owned by the Contractor (either
 directly or indirectly) shall be deemed to be the property of the
 Employer with effect from its arrival on the Site. This vesting of property
 shall not:
-7
-except: example text between lines may be copied
 
-================================================================================
-PAGE 99
-================================================================================
-(a) affect the responsibility or liability of the Employer,
-(b) prejudice the right of the Contractor to the sole use of the vested
-Contractor's Equipment for the purpose of the Works, or
-(c) affect the Contractor's responsibility to operate and maintain
+
+---
+
+# Page 99
+
+8
+except: example text between lines may be copied
+(a)
+affect the responsibility or liability of the Employer,
+(b)
+prejudice the right of the Contractor to the sole use of the vested
+Contractor's Equipment for the purpose of the Works,  or
+(c)
+affect the Contractor's responsibility to operate and maintain
 Contractor's Equipment.
 The property in each item shall be deemed to revest in the Contractor
 when he is entitled either to remove it from the Site or to receive the
 Taking-Over Certificate for the Works, whichever occurs first.
-Sub-Clause 4.19 Electricity, Water and Gas
+Sub-Clause 4.19
+Electricity, Water and Gas
 If services are to be available for the Contractor to use, the Specification should give details,
 including locations and prices.
-Sub-Clause 4.20 Employer's Equipment and Free-Issue Material
+Sub-Clause 4.20
+Employer's Equipment and Free-Issue Material
 For this Sub-Clause to apply, the Specification should describe each item which the Employer will
 provide and/or operate and should specify all necessary details. With some types of facilities,
 further provisions may be necessary, in order to clarify aspects such as liability and insurance.
-Sub-Clause 4.22 Security of the Site
+Sub-Clause 4.22
+Security of the Site
 If the Contractor is sharing occupation of the Site with others, it may not be appropriate for him
 to be responsible for its security. In these circumstances, the Employer's obligations should be
 specified.
-Clause 5 Nominated Subcontractors
+Clause 5
+Nominated Subcontractors
 In most cases under Sub-Clause 4.4, the Contractor selects Subcontractors, subject to any constraints
 specified in the Contract. Clause 5 provides for the particular situation whereby the Employer may
 select a Subcontractor, although the second sentence of Sub-Clause 4.4 should still apply.
@@ -1038,21 +1340,27 @@ If a nominated Subcontractor is to be required, full details should be included 
 documents. If the Employer anticipates that a Subcontractor is to be instructed under Clause 13
 but is not to be a nominated Subcontractor, Clause 5 should be amended, describing the particular
 circumstances.
-Clause 6 Staff and Labour
-Sub-Clause 6.5 Working Hours
+Clause 6
+Staff and Labour
+Sub-Clause 6.5
+Working Hours
 If the Employer does not wish to specify working hours in the Appendix to Tender, or to restrict
 them to the times specified by the Tenderer (in order to plan the Engineer's supervision, for
 example), this Sub-Clause may be deleted.
-Sub-Clause 6.6 Facilities for Staff and Labour
+Sub-Clause 6.6
+Facilities for Staff and Labour
 If the Employer will make some accommodation available, his obligations to do so should be
 specified.
-8
-except: example text between lines may be copied
 
-================================================================================
-PAGE 100
-================================================================================
-Sub-Clause 6.8 Contractor's Superintendence
+
+---
+
+# Page 100
+
+9
+except: example text between lines may be copied
+Sub-Clause 6.8
+Contractor's Superintendence
 If the ruling language is not the same as the language for day to day communications (under Sub-
 Clause 1.4), or if for any other reason it is necessary to stipulate that the Contractor's
 superintending staff shall be fluent in a particular language, the following sentence may be
@@ -1092,12 +1400,14 @@ The Contractor shall not, otherwise than in accordance with the Laws of
 the Country, import, sell, give, barter or otherwise dispose of any
 alcoholic liquor or drugs, or permit or allow importation, sale, gift, barter
 or disposal by Contractor's Personnel.
-9
-except: example text between lines may be copied
 
-================================================================================
-PAGE 101
-================================================================================
+
+---
+
+# Page 101
+
+10
+except: example text between lines may be copied
 EXAMPLE SUB-CLAUSE
 Arms and Ammunition
 The Contractor shall not give, barter or otherwise dispose of to any
@@ -1107,7 +1417,8 @@ EXAMPLE SUB-CLAUSE
 Festivals and Religious Customs
 The Contractor shall respect the Country's recognised festivals, days of
 rest and religious or other customs.
-Clause 7 Plant, Materials and Workmanship
+Clause 7
+Plant, Materials and Workmanship
 Additional Sub-Clause
 If the Contract is being financed by an institution whose rules or policies require a restriction on the
 use of its funds, a further sub-clause may be added:
@@ -1119,11 +1430,14 @@ countries, unless exempted by the Employer in writing on the basis of
 potential excessive costs or delays. Surety, insurance and banking
 services shall be provided by insurers and bankers from the eligible
 source countries.
-Clause 8 Commencement, Delays and Suspension
-Sub-Clause 8.2 Time for Completion
+Clause 8
+Commencement, Delays and Suspension
+Sub-Clause 8.2
+Time for Completion
 If the Works are to be taken-over in stages, these stages should be defined as Sections, in the
 Appendix to Tender.
-Sub-Clause 8.7 Delay Damages
+Sub-Clause 8.7
+Delay Damages
 Under many legal systems, the amount of these pre-defined damages must represent a reasonable
 pre-estimate of the Employer's probable loss in the event of delay. If the Accepted Contract Amount
 is to be quoted as the sum of figures in more than one currency, it may be preferable to define these
@@ -1133,12 +1447,14 @@ be defined as a percentage or be defined as a figure in Local Currency: see Sub-
 Additional Sub-Clause
 Incentives for early completion may be included in the tender documents (although Sub-Clause
 13.2 refers to accelerated completion):
-10
-except: example text between lines may be copied
 
-================================================================================
-PAGE 102
-================================================================================
+
+---
+
+# Page 102
+
+11
+except: example text between lines may be copied
 EXAMPLE SUB-CLAUSE
 Sections are required to be completed by the dates given in the
 Appendix to Tender in order that these Sections may be occupied and
@@ -1150,48 +1466,65 @@ For the purposes of calculating bonus payments, the dates given in the
 Appendix to Tender for completion of Sections are fixed. No adjustments
 of the dates by reason of granting an extension of the Time for
 Completion will be allowed.
-Clause 9 Tests on Completion
-Sub-Clause 9.1 Contractor's Obligations
+Clause 9
+Tests on Completion
+Sub-Clause 9.1
+Contractor's Obligations
 The Specification should describe the tests which the Contractor is to carry out before being entitled
 to a Taking-Over Certificate. If the Works are to be tested and taken-over in stages, the tests
 requirements may have to take account of the effect of some parts of the Works being incomplete.
-Clause 10 Employer's Taking Over
-Sub-Clause 10.1 Taking-Over Certificate
+Clause 10
+Employer's Taking Over
+Sub-Clause 10.1
+Taking-Over Certificate
 If the Works are to be taken-over in stages, these stages should to be defined as Sections, in the
 Appendix to Tender. Precise geographical definitions are advisable, and the Appendix should
 include a table, so as to define the Time for Completion and delay damages: the table is shown in
 the example Appendix.
-Clause 11 Defects Liability
-Sub-Clause 11.10 Unfulfilled Obligations
+Clause 11
+Defects Liability
+Sub-Clause 11.10
+Unfulfilled Obligations
 It may be necessary to review this Sub-Clause for the period of liability imposed by the applicable law.
-Clause 12 Measurement and Evaluation
-Sub-Clause 12.1 Works to be Measured
+Clause 12
+Measurement and Evaluation
+Sub-Clause 12.1
+Works to be Measured
 If any part of the Permanent Works is to be measured according to records of its construction,
 details should be specified in the tender documents, including any records for which the Contractor
 is to be responsible.
-Clause 13 Variations and Adjustments
+Clause 13
+Variations and Adjustments
 Variations can be initiated by any of three ways:
-(a) the Engineer may instruct the variation under Sub-Clause 13.1, without prior agreement as
+(a)
+the Engineer may instruct the variation under Sub-Clause 13.1, without prior agreement as
 to feasibility or price;
-11
-except: example text between lines may be copied
 
-================================================================================
-PAGE 103
-================================================================================
-(b) the Contractor may initiate his own proposals under Sub-Clause 13.2, which are intended
-to benefit both Parties; or
-(c) the Engineer may request a proposal under Sub-Clause 13.3, seeking prior agreement so
+
+---
+
+# Page 103
+
+12
+except: example text between lines may be copied
+(b)
+the Contractor may initiate his own proposals under Sub-Clause 13.2, which are intended
+to benefit both Parties;  or
+(c)
+the Engineer may request a proposal under Sub-Clause 13.3, seeking prior agreement so
 as to minimise dispute.
-Sub-Clause 13.8 Adjustments for Changes in Cost
+Sub-Clause 13.8
+Adjustments for Changes in Cost
 These provisions for adjustments may be required if it would be unreasonable for the Contractor to
 bear the risk of escalating costs due to inflation. Unless this Sub-Clause is not to apply, the
 Appendix to Tender should include a table for each of the currencies of payment: the appropriate
 table is shown in the example Appendix. Particular care should be taken in the calculation of the
 weightings/coefficients ("a", "b", "c", ..., the total of which must not exceed unity) and in the
 selection and verification of cost indices. Expert advice may be appropriate.
-Clause 14 Contract Price and Payment
-Sub-Clause 14.1 The Contract Price
+Clause 14
+Contract Price and Payment
+Sub-Clause 14.1
+The Contract Price
 When writing the Particular Conditions, consideration should be given to the amount and timing of
 payment(s) to the Contractor. A positive cash flow is clearly of benefit to the Contractor, and
 tenderers will take account of the interim payment procedures when preparing their tenders.
@@ -1217,15 +1550,17 @@ For a lump sum contract, the tender documents should include a schedule of payme
 Clause 14.4), and any drawings required for construction may be specified as being Contractor's
 Documents. The Specification should describe the procedures under which the Contractor submits
 these Documents for the Engineer to approve.
-EXAMPLEPROVISIONS FOR A LUMP SUM CONTRACT
+EXAMPLE PROVISIONS FOR A LUMP SUM CONTRACT
 Delete Clause 12.
 Delete the last sentence of Sub-Clause 13.3 and substitute:
-12
-except: example text between lines may be copied
 
-================================================================================
-PAGE 104
-================================================================================
+
+---
+
+# Page 104
+
+13
+except: example text between lines may be copied
 Upon instructing or approving a Variation, the Engineer shall proceed in
 accordance with Sub-Clause 3.5 to agree or determine adjustments to
 the Contract Price and to the schedule of payments under Sub-Clause
@@ -1233,7 +1568,8 @@ the Contract Price and to the schedule of payments under Sub-Clause
 account of the Contractor's submissions under Sub-Clause 13.2 if
 applicable.
 Delete sub-paragraph (a) of Sub-Clause 14.1 and substitute:
-(a) the Contract Price shall be the lump sum Accepted Contract
+(a)
+the Contract Price shall be the lump sum Accepted Contract
 Amount and be subject to adjustments in accordance with the
 Contract;
 If Sub-Clause 14.1(b) is not to apply, additional Sub-Clause(s) should be added.
@@ -1254,10 +1590,12 @@ Contract. If not exported, the Goods will be assessed for duties as
 applicable to the Goods involved in accordance with the Laws of the
 Country.
 However, exemption may not available for:
-(a) Goods which are similar to those locally produced, unless they are
+(a)
+Goods which are similar to those locally produced, unless they are
 not available in sufficient quantities or are of a different standard to
-that which is necessary for the Works; and
-(b) any element of duty or tax inherent in the price of goods or
+that which is necessary for the Works;  and
+(b)
+any element of duty or tax inherent in the price of goods or
 services procured in the Country, which shall be deemed to be
 included in the Accepted Contract Amount.
 Port dues, quay dues and, except as set out above, any element of tax
@@ -1268,12 +1606,14 @@ Expatriate (foreign) personnel shall not be liable for income tax levied in
 the Country on earnings paid in any foreign currency, or for income tax
 levied on subsistence, rentals and similar services directly furnished by
 the Contractor to Contractor's Personnel, or for allowances in lieu. If any
-13
-except: example text between lines may be copied
 
-================================================================================
-PAGE 105
-================================================================================
+
+---
+
+# Page 105
+
+14
+except: example text between lines may be copied
 Contractor's Personnel have part of their earnings paid in the
 Country in a foreign currency, they may export (after the conclusion
 of their term of service on the Works) any balance remaining of their
@@ -1281,7 +1621,8 @@ earnings paid in foreign currencies.
 The Employer shall seek exemption for the purposes of this Sub-
 Clause. If it is not granted, the relevant taxes paid shall be
 reimbursed by the Employer.
-Sub-Clause 14.2 Advance Payment
+Sub-Clause 14.2
+Advance Payment
 When writing the Particular Conditions, consideration should be given to the benefits of
 advance payment(s). Unless this Sub-Clause is not to apply, the total advance payment (and
 the number of instalments if more than one) must be specified in the Appendix to Tender. The
@@ -1291,23 +1632,26 @@ Sub-Clause are based on the assumption that the total advance payment is less th
 the Accepted Contract Amount.
 The acceptable form(s) of guarantee should be included in the tender documents, annexed to
 the Particular Conditions: an example form is annexed to this document, as Annex E.
-Sub-Clause 14.7 Payment
+Sub-Clause 14.7
+Payment
 If a different period for payment is to apply, the Sub-Clause may be amended:
 EXAMPLE
-In sub-paragraph (b) of Sub-Clause 14.7, delete "56" and substitute
+In sub-paragraph (b) of Sub-Clause 14.7, delete  "56"  and substitute
 "42"
 If the country/countries of payment need to be specified, details may be included in a Schedule.
-Sub-Clause 14.8 Delayed Payment
+Sub-Clause 14.8
+Delayed Payment
 If the discount rate of the central bank in the country of the currency of payment is not a
 reasonable basis for assessing the Contractor's financing costs, a new rate may have to be
 defined. Alternatively, the actual financing Costs could be paid, taking account of local financing
 arrangements.
-Sub-Clause 14.9 Payment of Retention Money
+Sub-Clause 14.9
+Payment of Retention Money
 If part of the Retention Money is to be released and substituted by an appropriate guarantee,
 an additional Sub-Clause may be added. The acceptable form(s) of guarantee should be
 included in the tender documents, annexed to the Particular Conditions: an example form is
 annexed to this document, as Annex F.
-EXAMPLE SUB-CLAUSE FOR RELEASEOFRETENTION
+EXAMPLE SUB-CLAUSE FOR RELEASE OF RETENTION
 When the Retention Money has reached three-fifths (60%) of the limit
 of Retention Money stated in the Appendix to Tender, the Engineer
 shall certify and the Employer shall make payment of half (50%) of
@@ -1315,22 +1659,25 @@ the limit of Retention Money to the Contractor if he obtains a
 guarantee, in a form and provided by an entity approved by the
 Employer, in amounts and currencies equal to the payment.
 The Contractor shall ensure that the guarantee is valid and
-14
-except: example text between lines may be copied
 
-================================================================================
-PAGE 106
-================================================================================
+
+---
+
+# Page 106
+
+15
+except: example text between lines may be copied
 enforceable until the Contractor has executed and completed the Works
 and remedied any defects, as specified for the Performance Security in
 Sub-Clause 4.2, and shall be returned to the Contractor accordingly.
 This release of retention shall be in lieu of the release of the second half
 of the Retention Money under the second paragraph of Sub-Clause
 14.9.
-Sub-Clause 14.15 Currencies of Payment
+Sub-Clause 14.15
+Currencies of Payment
 If all payments are to be made in Local Currency, it must be named in the Letter of Tender, and only
 the first sentence of this Sub-Clause will apply. Alternatively, the Sub-Clause may then be replaced:
-EXAMPLE SUB-CLAUSE FORASINGLECURRENCY CONTRACT
+EXAMPLE SUB-CLAUSE FOR A SINGLE CURRENCY CONTRACT
 The currency of account shall be the Local Currency and all payments
 made in accordance with the Contract shall be in Local Currency. The
 Local Currency payments shall be fully convertible, except those for local
@@ -1347,26 +1694,36 @@ These requirements may include tendering procedures which need to be adopted in 
 the eventual contract eligible for financing, and/or special Sub-Clauses which may need to be
 incorporated into the Particular Conditions. The following examples indicate some of the topics
 which the institution's requirements may cover:
-(a) prohibition from discrimination against the shipping companies of any one country;
-(b) ensuring that the Contract is subject to a widely-accepted neutral law;
-(c) provision for arbitration under recognised international rules and at a neutral location;
-(d) giving the Contractor the right to suspend/terminate in the event of default under the
+(a)
+prohibition from discrimination against the shipping companies of any one country;
+(b)
+ensuring that the Contract is subject to a widely-accepted neutral law;
+(c)
+provision for arbitration under recognised international rules and at a neutral location;
+(d)
+giving the Contractor the right to suspend/terminate in the event of default under the
 financing arrangements;
-(e) restricting the right to reject Plant;
-(f) specifying the payments due in the event of termination;
-(g) specifying that the Contract does not become effective until certain conditions precedent have
-been satisfied, including pre-disbursement conditions for the financing arrangements; and
-(h) obliging the Employer to make payments from his own resources if, for any reason, the
+(e)
+restricting the right to reject Plant;
+(f)
+specifying the payments due in the event of termination;
+(g)
+specifying that the Contract does not become effective until certain conditions precedent have
+been satisfied, including pre-disbursement conditions for the financing arrangements;  and
+(h)
+obliging the Employer to make payments from his own resources if, for any reason, the
 funds under the financing arrangements are insufficient to meet the payments due to the
 Contractor, whether due to a default under the financing arrangements or otherwise.
 In addition, the financing institution or bank may wish the Contract to include references to the
 financing arrangements, especially if funding from more than one source is to be arranged to
-15
-except: example text between lines may be copied
 
-================================================================================
-PAGE 107
-================================================================================
+
+---
+
+# Page 107
+
+16
+except: example text between lines may be copied
 finance different elements of supply. It is not unusual for the Particular Conditions to include special
 provisions identifying different categories of Plant and specifying the documents to be presented to
 the relevant financing institution to obtain payment. If the financing institution's requirements are not
@@ -1377,61 +1734,76 @@ country but is simply provided by commercial banks lending to the Employer, thos
 concerned to ensure that the Contractor's rights are very restricted. These banks may wish the
 Contract to exclude any reference to the financing arrangements, and/or to restrict the Contractor's
 rights under Clause 16.
-FORM OF SUB-CLAUSE WHICH A FINANCING INSTITUTION MAY REQUIRE
+FORM OF SUB-CLAUSE  WHICH A FINANCING INSTITUTION MAY REQUIRE
 The Accepted Contract Amount is made up as follows:
 (breakdown into items and/or into supply/delivery/etc)
 and shall be payable by the Employer to the Contractor as set out below.
-(a) % of the Accepted Contract Amount shall be payable by a
+(a)
+% of the Accepted Contract Amount shall be payable by a
 direct payment from the Employer to the Contractor within 28
 days of receipt by the Employer of the following documents:
-(i) commercial invoice addressed to the Employer specifying
+(i)
+commercial invoice addressed to the Employer specifying
 the amount of the payment now due,
-(ii) advance payment security guarantee issued by
+(ii)
+advance payment security guarantee issued by 
 Bank in the form annexed,
-(iii) performance security guarantee issued by Bank
-in the form annexed, and
-(iv) Interim Payment Certificate confirming the payment due
+(iii)
+performance security guarantee issued by 
+Bank
+in the form annexed,  and
+(iv)
+Interim Payment Certificate confirming the payment due
 and specifying the amount.
-(b) % of the contract price for the supply of Plant shall be
+(b)
+% of the contract price for the supply of Plant shall be
 payable as follows:
-(i) % of the estimated contract value of the Plant
+(i)
+% of the estimated contract value of the Plant
 supplied, by direct payment from the Employer to the
 Contractor on shipment of each item, against the following
 documents:
 (original) commercial invoice,
 (original) shipping documents,
 (original) certificate of origin,
-(original) insurance certificate, and
+(original) insurance certificate,  and
 (original) Interim Payment Certificate confirming the
 payment due and specifying the amount.
-(ii) % of the estimated contract value of the Plant
+(ii)
+% of the estimated contract value of the Plant
 supplied, by disbursement from the Loan Agreement to the
 Contractor on shipment of each item, on presentation of a
 Qualifying Certificate in the form annexed and copies of the
 documents listed in sub-paragraph (b)(i) above.
-(c) the balance of the Contract Price shall be payable as follows:
-(i) % of the estimated contract value of the services
-16
-except: example text between lines may be copied
+(c)
+the balance of the Contract Price shall be payable as follows:
+(i)
+% of the estimated contract value of the services
 
-================================================================================
-PAGE 108
-================================================================================
+
+---
+
+# Page 108
+
+17
+except: example text between lines may be copied
 rendered, by direct payment from the Employer to the
 Contractor on execution of the relevant service, against the
 following documents:
-(original) commercial invoice, and
+(original) commercial invoice,  and
 (original) Interim Payment Certificate confirming the
 payment due and specifying the amount.
-(ii) % of the estimated contract value of the services
+(ii)
+% of the estimated contract value of the services
 rendered, by disbursement from the Loan Agreement to
 the Contractor, on presentation of a Qualifying Certificate in
 the form annexed and copies of the documents listed in
 sub-paragraph (c)(i) above.
-(d) The direct payments by the Employer specified in sub-paragraph
+(d)
+The direct payments by the Employer specified in sub-paragraph
 (b) shall be made by an irrevocable letter of credit established by
 the Employer in favour of the Contractor and confirmed by a bank
-acceptable to the Contractor.
+acceptable to the Contractor. 
 The above arrangements (involving financing institution(s), Employer and Contractor) may be
 initiated by the Employer; or by the Contractor, before submitting the Tender. Alternatively, the
 Contractor may be prepared to initiate financing arrangements and retain responsibility for them,
@@ -1449,7 +1821,7 @@ It may be appropriate for the Employer, when preparing the tender documents, to 
 latter requirement by undertaking to provide a guarantee for the element of payment which the
 Contractor is to receive when the Works are complete. The acceptable form(s) of guarantee should
 be included in the tender documents, annexed to the Particular Conditions: an example form is
-annexed to this document, as Annex G. The following Sub-Clause may be added.
+annexed to this document, as Annex G. The following Sub-Clause may be added. 
 EXAMPLE PROVISIONS FOR CONTRACTOR FINANCE
 The Employer shall obtain (at his cost) a payment guarantee in the
 amount and currencies, and provided by an entity, as stated in the
@@ -1461,37 +1833,51 @@ Contractor. Unless and until the Contractor receives the guarantee, the
 Engineer shall not give the notice under Sub-Clause 8.1.
 The guarantee shall be returned to the Employer at the earliest of the
 following dates:
-(a) when the Contractor has been paid the Accepted Contract Amount;
-(b) when obligations under the guarantee expire or have been
-discharged; or
-17
-except: example text between lines may be copied
+(a)
+when the Contractor has been paid the Accepted Contract Amount;
+(b)
+when obligations under the guarantee expire or have been
+discharged;  or
 
-================================================================================
-PAGE 109
-================================================================================
-(c) when the Employer has performed all obligations under the Contract.
-Clause 15 Termination by Employer
-Sub-Clause 15.2 Termination by Employer
+
+---
+
+# Page 109
+
+18
+except: example text between lines may be copied
+(c)
+when the Employer has performed all obligations under the Contract.
+Clause 15
+Termination by Employer
+Sub-Clause 15.2
+Termination by Employer
 Before inviting tenders, the Employer should verify that the wording of this Sub-Clause, and each
 anticipated ground for termination, is consistent with the law governing the Contract.
-Sub-Clause 15.5 Employer's Entitlement to Termination
+Sub-Clause 15.5
+Employer's Entitlement to Termination
 Unless inconsistent with the requirements of the Employer and/or financing institutions, a further
 sentence may be added.
-EXAMPLE Insert at the end of Sub-Clause 15.5:
+EXAMPLE
+Insert at the end of Sub-Clause 15.5:
 The Employer shall also pay to the Contractor the amount of any other
 loss or damage resulting from this termination.
-Clause 16 Suspension and Termination by Contractor
-Sub-Clause 16.2 Termination by Contractor
+Clause 16
+Suspension and Termination by Contractor
+Sub-Clause 16.2
+Termination by Contractor
 Before inviting tenders, the Employer should verify that the wording of this Sub-Clause is consistent
 with the law governing the Contract. The Contractor should verify that each anticipated ground for
 termination is consistent with such law.
-Clause 17 Risk and Responsibility
-Sub-Clause 17.6 Limitation of Liability
+Clause 17
+Risk and Responsibility
+Sub-Clause 17.6
+Limitation of Liability
 EXAMPLE
 In Sub-Clause 17.6, the sum referred to in the penultimate sentence
-shall be
-Additional Sub-Clause Use of Employer's Accommodation/Facilities
+shall be 
+Additional Sub-Clause
+Use of Employer's Accommodation/Facilities
 If the Contractor is to occupy the Employer's facilities temporarily, an additional sub-clause may be
 added:
 EXAMPLE SUB-CLAUSE
@@ -1506,14 +1892,17 @@ If any loss or damage happens to any of the above items while the
 Contractor is responsible for their care, arising from any cause
 whatsoever other than those for which the Employer is liable, the
 Contractor shall, at his own cost, rectify the loss or damage to the
-18
-except: example text between lines may be copied
 
-================================================================================
-PAGE 110
-================================================================================
+
+---
+
+# Page 110
+
+19
+except: example text between lines may be copied
 satisfaction of the Engineer.
-Clause 18 Insurance
+Clause 18
+Insurance
 The wording in the General Conditions describes the insurances which are to be arranged by the
 "insuring Party", who is to be the Contractor unless otherwise stated in the Particular Conditions.
 Insurances so provided by the Contractor are to be consistent with the general terms agreed with
@@ -1527,15 +1916,19 @@ to effect the insurances described in the third paragraph of Sub-Clause 18.2 (fo
 Equipment, which includes Subcontractor's equipment), because the Employer may not know the
 amount or value of these items of equipment. The following sentence may be included in the
 Particular Conditions:
-EXAMPLE Delete the final paragraph of Sub-Clause 18.2 and substitute:
+EXAMPLE 
+Delete the final paragraph of Sub-Clause 18.2 and substitute:
 However, the insurances described in the first two paragraphs of Sub-
 Clause 18.2 shall be effected and maintained by the Employer as
 insuring Party, and not by the Contractor.
-Clause 19 Force Majeure
+Clause 19
+Force Majeure
 Before inviting tenders, the Employer should verify that the wording of this Clause is compatible with
 the law governing the Contract.
-Clause 20 Claims, Disputes and Arbitration
-Sub-Clause 20.2 Appointment of the Dispute Adjudication Board
+Clause 20
+Claims, Disputes and Arbitration
+Sub-Clause 20.2
+Appointment of the Dispute Adjudication Board
 Unless the Engineer (although appointed by the Employer) is to make the pre-arbitral decisions
 under this Clause 20, in accordance with the alternative option described below, the Contract
 should include the provisions under Clause 20 which, whilst not discouraging the Parties from
@@ -1554,18 +1947,22 @@ agree the appointment within the specified period thereafter. Alternatively, the
 to defer the appointment until a dispute has arisen, in which case Sub-Clause 20.2 plus the
 Appendix - General Conditions of Dispute Adjudication Agreement with its Annex (Procedural
 Rules) and the Dispute Adjudication Agreement should be amended to comply with the wording
-19
-except: example text between lines may be copied
 
-================================================================================
-PAGE 111
-================================================================================
+
+---
+
+# Page 111
+
+20
+except: example text between lines may be copied
 contained in the corresponding sections of FIDIC’s Conditions of Contract for Plant and Design -
 Build.
 Sub-Clause 20.2 provides for two alternative arrangements for the DAB:
-(a) one person, who acts as the sole member of the DAB, having entered into a tripartite
-agreement with both Parties; or
-(b) a DAB of three persons, each of whom has entered into a tripartite agreement with both Parties.
+(a)
+one person, who acts as the sole member of the DAB, having entered into a tripartite
+agreement with both Parties;  or
+(b)
+a DAB of three persons, each of whom has entered into a tripartite agreement with both Parties.
 The form of this tripartite agreement could be one of the two alternatives shown at the end of this
 publication, as appropriate to the arrangement adopted. Both of these forms incorporate (by
 reference) the General Conditions of Dispute Adjudication Agreement, which are included as the
@@ -1605,20 +2002,24 @@ The Engineer shall act as the DAB in accordance with this Sub-Clause
 20.4, acting fairly, impartially and at the cost of the Employer. In the event
 that the Employer intends to replace the Engineer, the Employer's notice
 under Sub-Clause 3.4 shall include detailed proposals for the
-20
-except: example text between lines may be copied
 
-================================================================================
-PAGE 112
-================================================================================
+
+---
+
+# Page 112
+
+21
+except: example text between lines may be copied
 appointment of a replacement DAB.
-Sub-Clause 20.5 Amicable Settlement
+Sub-Clause 20.5
+Amicable Settlement
 The provisions of this Sub-Clause are intended to encourage the parties to settle a dispute
 amicably, without the need for arbitration: for example, by direct negotiation, conciliation, mediation,
 or other forms of alternative dispute resolution. Amicable settlement procedures often depend, for
 their success, on confidentiality and on both Parties' acceptance of the procedure. Therefore,
 neither Party should seek to impose the procedure on the other Party.
-Sub-Clause 20.6 Arbitration
+Sub-Clause 20.6
+Arbitration
 The Contract should include provisions for the resolution by international arbitration of any disputes
 which are not resolved amicably. In international contracts, international commercial arbitration has
 numerous advantages over litigation in national courts, and may be more acceptable to the Parties.
@@ -1644,13 +2045,13 @@ between the Parties, thereby creating a multi-party arbitration. While this may 
 party arbitration clauses require skilful drafting, and usually need to be prepared on a case-by-case
 basis. No satisfactory standard form of multi-party arbitration clause for international use has yet
 been developed.
-21
-except: example text between lines may be copied
 
-================================================================================
-PAGE 113
-================================================================================
-Annexes FORMS OF SECURITIES
+
+---
+
+# Page 113
+
+22
 Acceptable form(s) of security should be included in the tender documents: for Annex A and/or B,
 in the Instructions to Tenderers; and for Annexes C to G, annexed to the Particular Conditions. The
 following example forms, which (except for Annex A) incorporate Uniform Rules published by the
@@ -1659,22 +2060,29 @@ Paris, France), may have to be amended to comply with the applicable law. Althou
 publishes guides to these Uniform Rules, legal advice should be taken before the securities are
 written. Note that the guaranteed amounts should be quoted in all the currencies, as specified in
 the Contract, in which the guarantor pays the beneficiary.
-22
+Annexes
+FORMS OF SECURITIES
 
-================================================================================
-PAGE 114
-================================================================================
-Annex A EXAMPLE FORM OF PARENT COMPANY
+
+---
+
+# Page 114
+
+23
+Annex A
+EXAMPLE FORM OF PARENT COMPANY
 GUARANTEE
 [See page 3, and the comments on Sub-Clause 1.14]
-Brief description of Contract
-Name and address of Employer
+Brief description of Contract       
+Name and address of Employer 
 (together with successors and assigns).
-We have been informed that (hereinafter called the "Contractor") is submitting
+We have been informed that 
+(hereinafter called the "Contractor") is submitting
 an offer for such Contract in response to your invitation, and that the conditions of your invitation
 require his offer to be supported by a parent company guarantee.
 In consideration of you, the Employer, awarding the Contract to the Contractor, we (name of parent
-company) irrevocably and unconditionally guarantee to you, as a primary
+company) 
+irrevocably and unconditionally guarantee to you, as a primary
 obligation, the due performance of all the Contractor's obligations and liabilities under the Contract,
 including the Contractor's compliance with all its terms and conditions according to their true intent
 and meaning.
@@ -1702,32 +2110,43 @@ governs the Contract and any dispute under this guarantee shall be finally settl
 of Arbitration of the International Chamber of Commerce by one or more arbitrators appointed in
 accordance with such Rules. We confirm that the benefit of this guarantee may be assigned subject
 only to the provisions for assignment of the Contract.
-Date Signature(s)
-23
+Date  
+Signature(s)  
 
-================================================================================
-PAGE 115
-================================================================================
-Annex B EXAMPLE FORM OF TENDER SECURITY
+
+---
+
+# Page 115
+
+Annex B
+EXAMPLE FORM OF TENDER SECURITY
 [See page 4]
-Brief description of Contract
-Name and address of Beneficiary
+Brief description of Contract           
+Name and address of Beneficiary 
 (whom the tender documents define as the Employer).
-We have been informed that (hereinafter called the "Principal") is submitting
+We have been informed that 
+(hereinafter called the "Principal") is submitting
 an offer for such Contract in response to your invitation, and that the conditions of your invitation
 (the "conditions of invitation", which are set out in a document entitled Instructions to Tenderers)
 require his offer to be supported by a tender security.
-At the request of the Principal, we (name of bank) hereby irrevocably
+At the request of the Principal, we (name of bank) 
+hereby irrevocably
 undertake to pay you, the Beneficiary/Employer, any sum or sums not exceeding in total the
-amount of (say: ) upon receipt by us of your demand
+amount of  
+(say: 
+) upon receipt by us of your demand
 in writing and your written statement (in the demand) stating that:
-(a) the Principal has, without your agreement, withdrawn his offer after the latest time specified
-for its submission and before the expiry of its period of validity, or
-(b) the Principal has refused to accept the correction of errors in his offer in accordance with
-such conditions of invitation, or
-(c) you awarded the Contract to the Principal and he has failed to comply with sub-clause 1.6
-of the conditions of the Contract, or
-(d) you awarded the Contract to the Principal and he has failed to comply with sub-clause 4.2
+(a)
+the Principal has, without your agreement, withdrawn his offer after the latest time specified
+for its submission and before the expiry of its period of validity,  or
+(b)
+the Principal has refused to accept the correction of errors in his offer in accordance with
+such conditions of invitation,  or
+(c)
+you awarded the Contract to the Principal and he has failed to comply with sub-clause 1.6
+of the conditions of the Contract,  or
+(d)
+you awarded the Contract to the Principal and he has failed to comply with sub-clause 4.2
 of the conditions of the Contract.
 Any demand for payment must contain your signature(s) which must be authenticated by your
 bankers or by a notary public. The authenticated demand and statement must be received by us
@@ -1735,33 +2154,46 @@ at this office on or before (the date 35 days after the expiry of the validity o
 , when this guarantee shall expire and shall be returned to us.
 This guarantee is subject to the Uniform Rules for Demand Guarantees, published as number 458
 by the International Chamber of Commerce, except as stated above.
-Date Signature(s)
+Date  
+Signature(s)  
 
-================================================================================
-PAGE 116
-================================================================================
-Annex C: EXAMPLE FORM OF PERFORMANCE SECURITY -
+
+---
+
+# Page 116
+
+25
+Annex C:
+EXAMPLE FORM OF PERFORMANCE SECURITY -
 DEMAND GUARANTEE
 [See comments on Sub-Clause 4.2]
-Brief description of Contract
-Name and address of Beneficiary
+Brief description of Contract        
+Name and address of Beneficiary  
 (whom the Contract defines as the Employer).
-We have been informed that (hereinafter called the "Principal") is your
+We have been informed that 
+(hereinafter called the "Principal") is your
 contractor under such Contract, which requires him to obtain a performance security.
-At the request of the Principal, we (name of bank) hereby irrevocably
+At the request of the Principal, we (name of bank) 
+hereby irrevocably
 undertake to pay you, the Beneficiary/Employer, any sum or sums not exceeding in total the
-amount of (the "guaranteed amount", say: ) upon
+amount of 
+(the "guaranteed amount", say: 
+) upon
 receipt by us of your demand in writing and your written statement stating:
-(a) that the Principal is in breach of his obligation(s) under the Contract, and
-(b) the respect in which the Principal is in breach.
+(a)
+that the Principal is in breach of his obligation(s) under the Contract,  and
+(b)
+the respect in which the Principal is in breach.
 [Following the receipt by us of an authenticated copy of the taking-over certificate for the whole of
 the works under clause 10 of the conditions of the Contract, such guaranteed amount shall be
-reduced by % and we shall promptly notify you that we have received such certificate and
+reduced by 
+% and we shall promptly notify you that we have received such certificate and
 have reduced the guaranteed amount accordingly.] (1)
 Any demand for payment must contain your [minister's/directors'] (1) signature(s) which must be
 authenticated by your bankers or by a notary public. The authenticated demand and statement
 must be received by us at this office on or before (the date 70 days after the expected expiry of the
-Defects Notification Period for the Works) (the "expiry date"), when this
+Defects Notification Period for the Works) 
+(the "expiry date"), when this
 guarantee shall expire and shall be returned to us.
 We have been informed that the Beneficiary may require the Principal to extend this guarantee if the
 performance certificate under the Contract has not been issued by the date 28 days prior to such
@@ -1769,42 +2201,51 @@ expiry date. We undertake to pay you such guaranteed amount upon receipt by us, 
 period of 28 days, of your demand in writing and your written statement that the performance
 certificate has not been issued, for reasons attributable to the Principal, and that this guarantee has
 not been extended.
-This guarantee shall be governed by the laws of and shall be subject to the
+This guarantee shall be governed by the laws of 
+and shall be subject to the
 Uniform Rules for Demand Guarantees, published as number 458 by the International Chamber of
 Commerce, except as stated above.
-Date Signature(s)
-(1) When writing the tender documents, the writer should ascertain whether to include the optional text,
+Date  
+Signature(s)  
+(1)
+When writing the tender documents, the writer should ascertain whether to include the optional text,
 shown in parentheses [ ]
-25
 
-================================================================================
-PAGE 117
-================================================================================
-Annex D EXAMPLE FORM OF PERFORMANCE SECURITY -
+
+---
+
+# Page 117
+
+26
+Annex D
+EXAMPLE FORM OF PERFORMANCE SECURITY  -
 SURETY BOND
 [See comments on Sub-Clause 4.2]
-Brief description of Contract
-Name and address of Beneficiary
+Brief description of Contract        
+Name and address of Beneficiary  
 (together with successors and assigns, all as defined in the Contract as the Employer).
-By this Bond, (name and address of contractor)
+By this Bond, (name and address of contractor) 
 (who is the contractor under such Contract) as Principal and (name and address of guarantor)
 as Guarantor are irrevocably held and firmly bound
-to the Beneficiary in the total amount of (the "Bond Amount", say:
+to the Beneficiary in the total amount of 
+(the "Bond Amount", say:
 ) for the due performance of all such Principal's obligations and liabilities
-under the Contract. [Such Bond Amount shall be reduced by % upon the issue of the taking-
+under the Contract. [Such Bond Amount shall be reduced by 
+% upon the issue of the taking-
 over certificate for the whole of the works under clause 10 of the conditions of the Contract.](1)
 This Bond shall become effective on the Commencement Date defined in the Contract.
 Upon Default by the Principal to perform any Contractual Obligation, or upon the occurrence of any of
 the events and circumstances listed in sub-clause 15.2 of the conditions of the Contract, the Guarantor
 shall satisfy and discharge the damages sustained by the Beneficiary due to such Default, event or
-circumstances.(2)However, the total liability of the Guarantor shall not exceed the Bond Amount.
+circumstances.(2) However, the total liability of the Guarantor shall not exceed the Bond Amount.
 The obligations and liabilities of the Guarantor shall not be discharged by any allowance of time or
 other indulgence whatsoever by the Beneficiary to the Principal, or by any variation or suspension
 of the works to be executed under the Contract, or by any amendments to the Contract or to the
 constitution of the Principal or the Beneficiary, or by any other matters, whether with or without the
 knowledge or consent of the Guarantor.
 Any claim under this Bond must be received by the Guarantor on or before (the date six months after
-the expected expiry of the Defects Notification Period for the Works) (the "Expiry
+the expected expiry of the Defects Notification Period for the Works) 
+(the "Expiry
 Date"), when this Bond shall expire and shall be returned to the Guarantor.
 The benefit of this Bond may be assigned subject to the provisions for assignment of the Contract,
 and subject to the receipt by the Guarantor of evidence of full compliance with such provisions.
@@ -1812,35 +2253,47 @@ This Bond shall be governed by the law of the same country (or other jurisdictio
 governs the Contract. This Bond incorporates and shall be subject to the Uniform Rules for
 Contract Bonds, published as number 524 by the International Chamber of Commerce, and words
 used in this Bond shall bear the meanings set out in such Rules.
-Wherefore this Bond has been issued by the Principal and the Guarantor on (date)
-Signature(s) for and on behalf of the Principal
-Signature(s) for and on behalf of the Guarantor
-(1) When writing the tender documents, the writer should ascertain whether to include the optional text,
-shown in parentheses[ ]
-(2) Insert: [and shall not be entitled to perform the Principal's obligations under the Contract.]
-Or: [or at the option of the Guarantor (to be exercised in writing within 42 days of receiving the claim
+Wherefore this Bond has been issued by the Principal and the Guarantor on (date) 
+Signature(s) for and on behalf of the Principal 
+Signature(s) for and on behalf of the Guarantor 
+(1)
+When writing the tender documents, the writer should ascertain whether to include the optional text,
+shown in parentheses [ ]
+(2)
+Insert: [and shall not be entitled to perform the Principal's obligations under the Contract.]
+Or:
+[or at the option of the Guarantor (to be exercised in writing within 42 days of receiving the claim
 specifying such Default) perform the Principal's obligations under the Contract.]
-26
 
-================================================================================
-PAGE 118
-================================================================================
-Annex E EXAMPLE FORM OF ADVANCE PAYMENT
+
+---
+
+# Page 118
+
+27
+Annex E
+EXAMPLE FORM OF ADVANCE PAYMENT
 GUARANTEE
 [See comments on Sub-Clause 14.2]
-Brief description of Contract
-Name and address of Beneficiary
+Brief description of Contract        
+Name and address of Beneficiary  
 (whom the Contract defines as the Employer).
-We have been informed that (hereinafter called the "Principal") is your
+We have been informed that 
+(hereinafter called the "Principal") is your
 contractor under such Contract and wishes to receive an advance payment, for which the Contract
 requires him to obtain a guarantee.
-At the request of the Principal, we (name of bank) hereby irrevocably
+At the request of the Principal, we (name of bank) 
+hereby irrevocably
 undertake to pay you, the Beneficiary/Employer, any sum or sums not exceeding in total the
-amount of (the "guaranteed amount", say: ) upon
+amount of 
+(the "guaranteed amount", say: 
+) upon
 receipt by us of your demand in writing and your written statement stating:
-(a) that the Principal has failed to repay the advance payment in accordance with the
+(a)
+that the Principal has failed to repay the advance payment in accordance with the
 conditions of the Contract, and
-(b) the amount which the Principal has failed to repay.
+(b)
+the amount which the Principal has failed to repay.
 This guarantee shall become effective upon receipt [of the first instalment] of the advance payment
 by the Principal. Such guaranteed amount shall be reduced by the amounts of the advance
 payment repaid to you, as evidenced by your notices issued under sub-clause 14.6 of the
@@ -1855,38 +2308,50 @@ advance payment has not been repaid by the date 28 days prior to such expiry dat
 to pay you such guaranteed amount upon receipt by us, within such period of 28 days, of your
 demand in writing and your written statement that the advance payment has not been repaid and
 that this guarantee has not been extended.
-This guarantee shall be governed by the laws of and shall be subject to the
+This guarantee shall be governed by the laws of 
+and shall be subject to the
 Uniform Rules for Demand Guarantees, published as number 458 by the International Chamber of
 Commerce, except as stated above.
-Date Signature(s)
-27
+Date  
+Signature(s)  
 
-================================================================================
-PAGE 119
-================================================================================
-Annex F EXAMPLE FORM OF RETENTION MONEY
+
+---
+
+# Page 119
+
+28
+Annex F
+EXAMPLE FORM OF RETENTION MONEY
 GUARANTEE
 [See comments on Sub-Clause 14.9]
-Brief description of Contract
-Name and address of Beneficiary
+Brief description of Contract        
+Name and address of Beneficiary  
 (whom the Contract defines as the Employer).
-We have been informed that (hereinafter called the "Principal") is your
+We have been informed that 
+(hereinafter called the "Principal") is your
 contractor under such Contract and wishes to receive early payment of [part of] the retention
 money, for which the Contract requires him to obtain a guarantee.
-At the request of the Principal, we (name of bank) hereby irrevocably
+At the request of the Principal, we (name of bank) 
+hereby irrevocably
 undertake to pay you, the Beneficiary/Employer, any sum or sums not exceeding in total the
-amount of (the "guaranteed amount", say: ) upon
+amount of 
+(the "guaranteed amount", say: 
+) upon
 receipt by us of your demand in writing and your written statement stating:
-(a) that the Principal has failed to carry out his obligation(s) to rectify certain defect(s) for which
+(a)
+that the Principal has failed to carry out his obligation(s) to rectify certain defect(s) for which
 he is responsible under the Contract, and
-(b) the nature of such defect(s).
+(b)
+the nature of such defect(s).
 At any time, our liability under this guarantee shall not exceed the total amount of retention money
 released to the Principal by you, as evidenced by your notices issued under sub-clause 14.6 of the
 conditions of the Contract with a copy being passed to us.
 Any demand for payment must contain your signature(s) which must be authenticated by your
 bankers or by a notary public. The authenticated demand and statement must be received by us
 at this office on or before (the date 70 days after the expected expiry of the Defects Notification Period
-for the Works) (the "expiry date"), when this guarantee shall expire and shall
+for the Works) 
+(the "expiry date"), when this guarantee shall expire and shall
 be returned to us.
 We have been informed that the Beneficiary may require the Principal to extend this guarantee if the
 performance certificate under the Contract has not been issued by the date 28 days prior to such
@@ -1894,83 +2359,105 @@ expiry date. We undertake to pay you such guaranteed amount upon receipt by us, 
 period of 28 days, of your demand in writing and your written statement that the performance
 certificate has not been issued, for reasons attributable to the Principal, and that this guarantee has
 not been extended.
-This guarantee shall be governed by the laws of and shall be subject to the
+This guarantee shall be governed by the laws of 
+and shall be subject to the
 Uniform Rules for Demand Guarantees, published as number 458 by the International Chamber of
 Commerce, except as stated above.
-Date Signature(s)
-28
+Date  
+Signature(s)  
 
-================================================================================
-PAGE 120
-================================================================================
-Annex G EXAMPLE FORM OF PAYMENT GUARANTEE BY
+
+---
+
+# Page 120
+
+29
+Annex G
+EXAMPLE FORM OF PAYMENT GUARANTEE BY
 EMPLOYER
 [See page 18: Contractor Finance]
-Brief description of Contract
-Name and address of Beneficiary
-(whom the Contract defines as the Contractor).
-We have been informed that (whom the Contract defines as the Employer and
+Brief description of Contract        
+Name and address of Beneficiary  
+(whom the Contract defines as the Contractor). 
+We have been informed that 
+(whom the Contract defines as the Employer and
 who is hereinafter called the "Principal") is required to obtain a bank guarantee.
-At the request of the Principal, we (name of bank) hereby irrevocably
+At the request of the Principal, we (name of bank) 
+hereby irrevocably
 undertake to pay you, the Beneficiary/Contractor, any sum or sums not exceeding in total the
-amount of (say: ) upon receipt by us of your demand in
+amount of 
+(say: 
+) upon receipt by us of your demand in
 writing and your written statement stating:
-(a) that, in respect of a payment due under the Contract, the Principal has failed to make
+(a)
+that, in respect of a payment due under the Contract, the Principal has failed to make
 payment in full by the date fourteen days after the expiry of the period specified in the
 Contract as that within which such payment should have been made, and
-(b) the amount(s) which the Principal has failed to pay.
+(b)
+the amount(s) which the Principal has failed to pay.
 Any demand for payment must be accompanied by a copy of [list of documents evidencing
-entitlement to payment] , in respect of which the Principal has failed to make
+entitlement to payment] 
+, in respect of which the Principal has failed to make
 payment in full.
 Any demand for payment must contain your signature(s) which must be authenticated by your
 bankers or by a notary public. The authenticated demand and statement must be received by us
 at this office on or before (the date six months after the expected expiry of the Defects Notification
-Period for the Works) when this guarantee shall expire and shall be returned
+Period for the Works) 
+when this guarantee shall expire and shall be returned
 to us.
-This guarantee shall be governed by the laws of and shall be subject to the
+This guarantee shall be governed by the laws of 
+and shall be subject to the
 Uniform Rules for Demand Guarantees, published as number 458 by the International Chamber of
 Commerce, except as stated above.
-Date Signature(s)
-29
+Date  
+Signature(s)  
 
-================================================================================
-PAGE 121
-================================================================================
-GENERALCONDITIONS
-GUIDANCE FOR THE
-PREPARATION OF
-PARTICULAR CONDITIONS
-Conditions of Contract
-FORMS OF LETTEROF
-for CONSTRUCTION TENDER, CONTRACT
-AGREEMENT AND
-DISPUTE ADJUDICATION
-FOR BUILDING AND ENGINEERING WORKS
-AGREEMENT
-DESIGNED BY THE EMPLOYER
-Forms of Letter of Tender, Contract Agreement
-and Dispute Adjudication Agreement
+
+---
+
+# Page 121
+
 FEDERATION INTERNATIONALE DES INGENIEURS-CONSEILS
 INTERNATIONAL FEDERATION OF CONSULTING ENGINEERS
 INTERNATIONALE VEREINIGUNG BERATENDER INGENIEURE
 FEDERACION INTERNACIONAL DE INGENIEROS CONSOLTORES
+GENERAL CONDITIONS
+GUIDANCE FOR THE
+PREPARATION OF
+PARTICULAR CONDITIONS
+FORMS OF LETTER OF
+TENDER, CONTRACT
+AGREEMENT AND 
+DISPUTE ADJUDICATION
+AGREEMENT
+Conditions of Contract
+for CONSTRUCTION
+FOR BUILDING AND ENGINEERING WORKS
+DESIGNED BY THE EMPLOYER
+Forms of Letter of Tender, Contract Agreement
+and Dispute Adjudication Agreement
 
-================================================================================
-PAGE 122
-================================================================================
+
+---
+
+# Page 122
+
+i
 LETTER OF TENDER
 NAME OF CONTRACT:
 TO:
 We have examined the Conditions of Contract, Specification, Drawings, Bill of Quantities, the other
-Schedules, the attached Appendix and Addenda Nos for the
+Schedules, the attached Appendix and Addenda Nos 
+for the
 execution of the above-named Works. We offer to execute and complete the Works and remedy
 any defects therein in conformity with this Tender which includes all these documents, for the sum
-of (in currencies of payment)
+of (in currencies of payment) 
 or such other sum as may be determined in accordance with the Conditions of Contract.
-We accept your suggestions for the appointment of the DAB, as set out in Schedule
+We accept your suggestions for the appointment of the DAB, as set out in Schedule 
 [ We have completed the Schedule by adding our suggestions for the other Member of the
 DAB, but these suggestions are not conditions of this offer ].*
-We agree to abide by this Tender until and it shall remain binding upon us and may
+We agree to abide by this Tender until 
+and it shall remain binding upon us and may
 be accepted at any time before that date. We acknowledge that the Appendix forms part of this
 Letter of Tender.
 If this offer is accepted, we will provide the specified Performance Security, commence the Works
@@ -1979,169 +2466,291 @@ accordance with the above-named documents within the Time for Completion.
 Unless and until a formal Agreement is prepared and executed this Letter of Tender, together with
 your written acceptance thereof, shall constitute a binding contract between us.
 We understand that you are not bound to accept the lowest or any tender you may receive.
-Signature in the capacity of
-duly authorised to sign tenders for and on behalf of
-Address:
-Date:
+Signature 
+in the capacity of 
+duly authorised to sign tenders for and on behalf of 
+Address: 
+Date:     
 * If the Tenderer does not accept, this paragraph may be deleted and replaced by:
 We do not accept your suggestions for the appointment of the DAB. We have included our
 suggestions in the Schedule, but these suggestions are not conditions of this offer. If these
 suggestions are not acceptable to you, we propose that the DAB be jointly appointed in
 accordance with Sub-Clause 20.2 of the Conditions of Contract.
-i
 
-================================================================================
-PAGE 123
-================================================================================
+
+---
+
+# Page 123
+
+ii
 APPENDIX TO TENDER
 [ Note: with the exception of the items for which the Employer's requirements have been
 inserted, the following information must be completed before the Tender is submitted ]
-Item Sub-Clause Data
-Employer's name and address . . . . . . 1.1.2.2 & 1.3
-Contractor's name and address . . . . . 1.1.2.3 & 1.3
-Engineer's name and address . . . . . . . 1.1.2.4 & 1.3
-Time for Completion of the Works . . . . 1.1.3.3. . . . . days
-Defects Notification Period . . . . . . . . . 1.1.3.7. . . . . 365 days
-Electronic transmission systems . . . . . 1.3. . . . . . . .
-Governing Law . . . . . . . . . . . . . . . . . 1.4. . . . . . . .
-Ruling language . . . . . . . . . . . . . . . . . 1.4. . . . . . . .
-Language for communications . . . . . . 1.4. . . . . . . .
-Time for access to the Site . . . . . . . . . 2.1. . . . . . . . days after Commencement Date
-Amount of Performance Security . . . . 4.2. . . . . . . . % of the Accepted Contract
+Item
+Employer's name and address  . . . . . .
+Contractor's name and address  . . . . .
+Engineer's name and address . . . . . . .
+Time for Completion of the Works . . . .
+Defects Notification Period  . . . . . . . . .
+Electronic transmission systems  . . . . .
+Governing Law  . . . . . . . . . . . . . . . . .
+Ruling language  . . . . . . . . . . . . . . . . .
+Language for communications  . . . . . .
+Time for access to the Site . . . . . . . . .
+Amount of Performance Security  . . . .
+Normal working hours  . . . . . . . . . . . .
+Delay damages for the Works . . . . . . .
+Maximum amount of delay damages . .
+If there are Provisional Sums:
+Percentage for adjustment of
+Provisional Sums . . . . . . . . . . . . . . .
+Sub-Clause
+1.1.2.2 & 1.3
+1.1.2.3 & 1.3
+1.1.2.4 & 1.3
+1.1.3.3 . . . . . 
+1.1.3.7 . . . . . 
+1.3 . . . . . . . . 
+1.4 . . . . . . . . 
+1.4 . . . . . . . . 
+1.4 . . . . . . . . 
+2.1 . . . . . . . . 
+4.2 . . . . . . . . 
+6.5 . . . . . . . . 
+8.7 & 14.15(b)
+8.7 . . . . . . . . 
+13.5(b) . . . . . 
+Data
+days
+365 days
+days after Commencement Date
+% of the Accepted Contract 
 Amount, in the currencies and
 proportions in which the Contract
 Price is payable
-Normal working hours . . . . . . . . . . . . 6.5. . . . . . . .
-Delay damages for the Works . . . . . . . 8.7 & 14.15(b) % of the final Contract Price per
+% of the final Contract Price per
 day, in the currencies and proportions
 in which the Contract Price is payable
-Maximum amount of delay damages . . 8.7. . . . . . . . % of the final Contract Price
-If there are Provisional Sums:
-Percentage for adjustment of
-Provisional Sums . . . . . . . . . . . . . . . 13.5(b) . . . . . %
-Initials of signatory of Tender
-ii
+% of the final Contract Price
+%
+Initials of signatory of Tender 
 
-================================================================================
-PAGE 124
-================================================================================
+
+---
+
+# Page 124
+
+iii
 If Sub-Clause 13.8 applies:
 Adjustments for Changes in Cost;
-Table(s) of adjustment data . . . . . . . 13.8. . . . . . .
-Coefficient; Country of origin; Source of index; Value on stated date(s)*
-scope of index currency of index Title/definition Value Date
-a= 0.10 Fixed
-b= Labour
-c=
-d=
-e=
-* These values and dates confirm the definition of each index, but do not define Base Date indices
-Total advance payment . . . . . . . . . . . . 14.2. . . . . . .
-Number and timing of instalments . . . . 14.2. . . . . . .
+Table(s) of adjustment data  . . . . . . .
+Total advance payment . . . . . . . . . . . .
+Number and timing of instalments . . . .
+Currencies and proportions  . . . . . . . .
+Start repayment of advance payment  .
+Repayment amortisation of advance
+payment  . . . . . . . . . . . . . . . . . . . . . .
+Percentage of retention  . . . . . . . . . . .
+Limit of Retention Money  . . . . . . . . . .
+If Sub-Clause 14.5 applies:
+Plant and Materials for payment
+when shipped en route to the Site  . .
+Plant and Materials for payment
+when delivered to the Site  . . . . . . . .
+Minimum amount of Interim Payment
+Certificates  . . . . . . . . . . . . . . . . . . . .
+Currency/currencies of payment . . . .
+13.8 . . . . . . . 
+14.2 . . . . . . . 
+14.2 . . . . . . . 
+14.2 . . . . . . . 
+14.2(a)
+14.2(b) . . . . . 
+14.3 . . . . . . . 
+14.3 . . . . . . . 
+14.5(b) . . . . . 
+14.5(c) . . . . . 
+14.6 . . . . . . . 
+14.15 . . . . . . 
 for payments each
-Currencies and proportions . . . . . . . . 14.2. . . . . . . month/[ YEAR ] in (currency)
+month/[ YEAR ] in 
+(currency)
 % of the Accepted Contract Amount
-Start repayment of advance payment . 14.2(a)
-Repayment amortisation of advance % in
-payment . . . . . . . . . . . . . . . . . . . . . . 14.2(b) . . . . . % in
-Percentage of retention . . . . . . . . . . . 14.3. . . . . . . when payments are %
+% in 
+% in 
+when payments are 
+%
 of the Accepted Contract Amount
-Limit of Retention Money . . . . . . . . . . 14.3. . . . . . . less Provisional Sums
-If Sub-Clause 14.5 applies: %
-Plant and Materials for payment
-when shipped en route to the Site . . 14.5(b) . . . . . %
+less Provisional Sums
+%
+%
 % of the Accepted Contract Amount
-Plant and Materials for payment
-when delivered to the Site . . . . . . . . 14.5(c) . . . . .
 [list]
-Minimum amount of Interim Payment [list]
-Certificates . . . . . . . . . . . . . . . . . . . . 14.6. . . . . . .
+[list]
+[list]
+Coefficient;
+scope of index
+a= 0.10   Fixed
+b=          Labour
+c= 
+d= 
+e= 
+Country of origin;
+currency of index
+Source of index;
+Title/definition
+Value on stated date(s)*
+Value   
+Date 
+* These values and dates confirm the definition of each index, but do not define Base Date indices
 If payments are only to be made in a currency/currencies named on the first page of the Letter of Tender:
-Currency/currencies of payment . . . . 14.15. . . . . . [list]
-Initials of signatory of Tender
-iii
+Initials of signatory of Tender 
 
-================================================================================
-PAGE 125
-================================================================================
-If some payments are to be made in a currency/currencies not named on the first page of the Letter of Tender:
-Currencies of payment . . . . . . . . . . 14.15 [list]
-Currency Unit Percentage payable in the Rate of exchange: number
-Currency of Local per unit of Foreign
-Local: [name] 1.000
-Foreign: [name]
-[name]
+
+---
+
+# Page 125
+
+iv
+Currencies of payment  . . . . . . . . . .
 Periods for submission of insurance:
-(a) evidence of insurance . . . . . . . . . 18.1. . . . . . . % of the Accepted Contract Amount
-(b) relevant policies . . . . . . . . . . . . . 18.1. . . . . . .
-as named in the Letters of Tender
+(a) evidence of insurance  . . . . . . . . .
+(b) relevant policies  . . . . . . . . . . . . .
 Maximum amount of deductibles for
-insurance of the Employer's risks . . . . 18.2(d) . . . . .
-Minimum amount of third party days
-insurance . . . . . . . . . . . . . . . . . . . . . . 18.3. . . . . . . days
-Date by which the DAB shall be appointed . 20.2. . . . . . .
-The DAB shall be . . . . . . . . . . . . . . . 20.2. . . . . . .
+insurance of the Employer's risks  . . . .
+Minimum amount of third party
+insurance . . . . . . . . . . . . . . . . . . . . . .
+Date by which the DAB shall be appointed  .
+The DAB shall be  . . . . . . . . . . . . . . .
+Appointment (if not agreed) to be
+made by  . . . . . . . . . . . . . . . . . . . . . .
+14.15
+18.1 . . . . . . . 
+18.1 . . . . . . . 
+18.2(d) . . . . . 
+18.3 . . . . . . . 
+20.2 . . . . . . . 
+20.2 . . . . . . . 
+20.3 . . . . . . . 
+[list]
+% of the Accepted Contract Amount
+as named in the Letters of Tender
+days
+days
 28 days after the Commencement
 Date
-Appointment (if not agreed) to be
-made by . . . . . . . . . . . . . . . . . . . . . . 20.3. . . . . . . Either:
+Either:
 One sole Member/adjudicator
 Or:
-If there are Sections:
-Definition of Sections:
-Description Time for Completion Delay Damages
-(Sub-Clause 1.1.5.6) (Sub-Clause 1.1.3.3) (Sub-Clause 8.7)
+Currency Unit
+Local: 
+ 
+ 
+ 
+[name]
+Foreign: 
+ 
+[name]
+[name]
+Percentage payable in the
+Currency
+Rate of exchange: number
+of Local per unit of Foreign
+1.000
 [ In the above Appendix, the text shown in italics is intended to assist the drafter of a particular
 contract by providing guidance on which provisions are relevant to the particular contract. This
 italicised text should not be included in the tender documents, as it will generally appear
 inappropriate to tenderers.]
-Initials of signatory of Tender
-iv
+Description
+(Sub-Clause 1.1.5.6)
+Time for Completion
+(Sub-Clause 1.1.3.3)
+Delay Damages
+(Sub-Clause 8.7)
+If there are Sections:
+Definition of Sections:
+If some payments are to be made in a currency/currencies not named on the first page of the Letter of Tender:
+Initials of signatory of Tender 
 
-================================================================================
-PAGE 126
-================================================================================
+
+---
+
+# Page 126
+
+v
 CONTRACT AGREEMENT
-This Agreement made the day of 19
-Between of (hereinafter called "the Employer") of the one
-p a r t ,
-and of (hereinafter called "the Contractor") of the
+This Agreement made the 
+day of 
+19 
+Between 
+of 
+(hereinafter called "the Employer") of the one
+p
+a
+r
+t
+,
+and       
+of 
+(hereinafter called "the Contractor") of the
 other part
-Whereasthe Employer desires that the Works known as should be executed
+Whereas the Employer desires that the Works known as 
+should be executed
 by the Contractor, and has accepted a Tender by the Contractor for the execution and
 completion of these Works and the remedying of any defects therein,
 The Employer and the Contractor agree as follows:
-1. In this Agreement words and expressions shall have the same meanings as are
+1.
+In this Agreement words and expressions shall have the same meanings as are
 respectively assigned to them in the Conditions of Contract hereinafter referred to.
-2. The following documents shall be deemed to form and be read and construed as part of
+2.
+The following documents shall be deemed to form and be read and construed as part of
 this Agreement:
-(a) The Letter of Acceptance dated
-(b) The Letter of Tender dated
-(c) The Addenda nos
-(d) The Conditions of Contract
-(e) The Specification
-(f) The Drawings, and
-(g) The completed Schedules.
-3. In consideration of the payments to be made by the Employer to the Contractor as
+(a)
+The Letter of Acceptance dated 
+(b)
+The Letter of Tender dated 
+(c)
+The Addenda nos 
+(d)
+The Conditions of Contract
+(e)
+The Specification
+(f)
+The Drawings,  and
+(g)
+The completed Schedules.
+3.
+In consideration of the payments to be made by the Employer to the Contractor as
 hereinafter mentioned, the Contractor hereby covenants with the Employer to execute
 and complete the Works and remedy any defects therein, in conformity with the
 provisions of the Contract.
-4. The Employer hereby covenants to pay the Contractor, in consideration of the execution
+4.
+The Employer hereby covenants to pay the Contractor, in consideration of the execution
 and completion of the Works and the remedying of defects therein, the Contract Price at
 the times and in the manner prescribed by the Contract.
-In Witnesswhereof the parties hereto have caused this Agreement to be executed the day and
-SIGNED by: SIGNED by:
-for and on behalf of the Employer in the presence for and on behalf of the Contractor in the presence
-of of
-Witness: Witness:
-Name: Name:
-Address: Address:
-Date: Date:
-v
+In Witness whereof the parties hereto have caused this Agreement to be executed the day and
+SIGNED by:
+for and on behalf of the Employer in the presence
+of
+Witness:
+Name:
+Address:
+Date: 
+SIGNED by: 
+for and on behalf of the Contractor in the presence
+of
+Witness: 
+Name: 
+Address:
+Date: 
 
-================================================================================
-PAGE 127
-================================================================================
+
+---
+
+# Page 127
+
+vi
+Conditions of Contract for Construction
 DISPUTE ADJUDICATION AGREEMENT
 [for a one-person DAB]
 Name and details of Contract
@@ -2151,42 +2760,64 @@ Name and address of Member
 Whereas the Employer and the Contractor have entered into the Contract and desire jointly to
 appoint the Member to act as sole adjudicator who is also called the "DAB".
 The Employer, Contractor and Member jointly agree as follows:
-1. The conditions of this Dispute Adjudication Agreement comprise the "General Conditions of
+1.
+The conditions of this Dispute Adjudication Agreement comprise the "General Conditions of
 Dispute Adjudication Agreement", which is appended to the General Conditions of the
 "Conditions of Contract for Construction" First Edition 1999 published by the Fédération
 Internationale des Ingénieurs-Conseils (FIDIC), and the following provisions. In these
 provisions, which include amendments and additions to the General Conditions of Dispute
 Adjudication Agreement, words and expressions shall have the same meanings as are
 assigned to them in the General Conditions of Dispute Adjudication Agreement.
-2. [ Details of amendments to the General Conditions of Dispute Adjudication Agreement, if any.
+2.
+[ Details of amendments to the General Conditions of Dispute Adjudication Agreement, if any.
 For example:
 In the procedural rules annexed to the General Conditions of Dispute Adjudication
-Agreement, Rule _ is deleted and replaced by: " … " ]
-3. In accordance with Clause 6 of the General Conditions of Dispute Adjudication Agreement,
+Agreement, Rule _ is deleted and replaced by:  " … " ]
+3.
+In accordance with Clause 6 of the General Conditions of Dispute Adjudication Agreement,
 the Member shall be paid as follows:
-A retainer fee of per calendar month,
-plus a daily fee of per day.
-4. In consideration of these fees and other payments to be made by the Employer and the
+A retainer fee of  
+per calendar month,
+plus a daily fee of
+per day.
+4.
+In consideration of these fees and other payments to be made by the Employer and the
 Contractor in accordance with Clause 6 of the General Conditions of Dispute Adjudication
 Agreement, the Member undertakes to act as the DAB (as adjudicator) in accordance with
 this Dispute Adjudication Agreement.
-5. The Employer and the Contractor jointly and severally undertake to pay the Member, in
+5.
+The Employer and the Contractor jointly and severally undertake to pay the Member, in
 consideration of the carrying out of these services, in accordance with Clause 6 of the
 General Conditions of Dispute Adjudication Agreement.
-6. This Dispute Adjudication Agreement shall be governed by the law of
-SIGNED by: SIGNED by: SIGNED by:
-for and on behalf of the Employer for and on behalf of the Contractor The Member in the presence of
-in the presence of in the presence of
-Witness: Witness: Witness
-Name: Name: Name:
-Address: Address: Address:
-Date: Date: Date:
-vi
-Conditions of Contract for Construction
+6.
+This Dispute Adjudication Agreement shall be governed by the law of 
+SIGNED by:
+for and on behalf of the Employer
+in the presence of
+Witness:
+Name:
+Address:
+Date: 
+SIGNED by: 
+for and on behalf of the Contractor
+in the presence of
+Witness: 
+Name: 
+Address:
+Date: 
+SIGNED by:
+The Member in the presence of
+Witness
+Name:
+Address:
+Date: 
 
-================================================================================
-PAGE 128
-================================================================================
+
+---
+
+# Page 128
+
+vii
 DISPUTE ADJUDICATION AGREEMENT
 [for each member of a three-person DAB]
 Name and details of Contract
@@ -2197,34 +2828,59 @@ Whereas the Employer and the Contractor have entered into the Contract and desir
 appoint the Member to act as one of the three persons who are jointly called the "DAB" [and desire
 the Member to act as chairman of the DAB].
 The Employer, Contractor and Member jointly agree as follows:
-1. The conditions of this Dispute Adjudication Agreement comprise the "General Conditions of
+1.
+The conditions of this Dispute Adjudication Agreement comprise the "General Conditions of
 Dispute Adjudication Agreement", which is appended to the General Conditions of the
 "Conditions of Contract for Construction" First Edition 1999 published by the Fédération
 Internationale des Ingénieurs-Conseils (FIDIC), and the following provisions. In these
 provisions, which include amendments and additions to the General Conditions of Dispute
 Adjudication Agreement, words and expressions shall have the same meanings as are
 assigned to them in the General Conditions of Dispute Adjudication Agreement.
-2. [ Details of amendments to the General Conditions of Dispute Adjudication Agreement, if any.
+2.
+[ Details of amendments to the General Conditions of Dispute Adjudication Agreement, if any.
 For example:
 In the procedural rules annexed to the General Conditions of Dispute Adjudication
-Agreement, Rule _ is deleted and replaced by: " … " ]
-3. In accordance with Clause 6 of the General Conditions of Dispute Adjudication Agreement,
+Agreement, Rule _ is deleted and replaced by:  " … " ]
+3.
+In accordance with Clause 6 of the General Conditions of Dispute Adjudication Agreement,
 the Member shall be paid as follows:
-A retainer fee of per calendar month,
-plus a daily fee of per day.
-4. In consideration of these fees and other payments to be made by the Employer and the
+A retainer fee of   
+per calendar month,
+plus a daily fee of
+per day.
+4.
+In consideration of these fees and other payments to be made by the Employer and the
 Contractor in accordance with Clause 6 of the General Conditions of Dispute Adjudication
 Agreement, the Member undertakes to serve, as described in this Dispute Adjudication
 Agreement, as one of the three persons who are jointly to act as the DAB.
-5. The Employer and the Contractor jointly and severally undertake to pay the Member, in
+5.
+The Employer and the Contractor jointly and severally undertake to pay the Member, in
 consideration of the carrying out of these services, in accordance with Clause 6 of the
 General Conditions of Dispute Adjudication Agreement.
-6. This Dispute Adjudication Agreement shall be governed by the law of
-SIGNED by: SIGNED by: SIGNED by:
-for and on behalf of the Employer for and on behalf of the Contractor for and on behalf of the Employer
-in the presence of in the presence of in the presence of
-Witness: Witness: Witness
-Name: Name: Name:
-Address: Address: Address:
-Date: Date: Date:
-vii
+6.
+This Dispute Adjudication Agreement shall be governed by the law of 
+SIGNED by:
+for and on behalf of the Employer
+in the presence of
+Witness:
+Name:
+Address:
+Date: 
+SIGNED by: 
+for and on behalf of the Contractor
+in the presence of
+Witness: 
+Name: 
+Address:
+Date: 
+SIGNED by:
+for and on behalf of the Employer
+in the presence of
+Witness
+Name:
+Address:
+Date: 
+
+
+---
+

@@ -1,0 +1,82 @@
+{
+  "clauseId": "3",
+  "clauseNumber": "3",
+  "title": "The Engineer",
+  "level": 1,
+  "summary": "Clause 3                               The Engineer\n    Sub-Clause 3.1                     Engineer's Duties and Authority",
+  "fullText": "Clause 3                               The Engineer\n    Sub-Clause 3.1                     Engineer's Duties and Authority\n\n    Any requirements for Employer's approval should be set out in the Particular Conditions:\n\n    EXAMPLE\n                                       The Engineer shall obtain the specific approval of the Employer before\n                                       taking action under the following Sub-Clauses of these Conditions:\n\n                                       (a)         Sub-Clause                      **\n\n                                       (b)         Sub-Clause                      **\n\n                                       ** (insert number; describe action, unless all require approval)\n\n    This list should be extended or reduced as necessary. If the obligation to obtain the approval of the\n    Employer only applies beyond certain limits, financial or otherwise, the example wording should be\n    varied.\n\n    Additional Sub-Clause Management Meetings\n\n    EXAMPLE SUB-CLAUSE\n                                       The Engineer or the Contractor's Representative may require the other\n                                       to attend a management meeting in order to review the arrangements for\n                                       future work. The Engineer shall record the business of management\n                                       meetings and supply copies of the record to those attending the meeting\n    except: example text between lines may be copied                                                          5\n\f                                           and to the Employer. In the record, responsibilities for any actions to be\n                                           taken shall be in accordance with the Contract.",
+  "obligations": [
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "Clause 3                               The Engineer\n    Sub-Clause 3.1                     Engineer's Duties and Authority\n\n    Any requirements for Employer's approval should be set out in the Partic"
+    },
+    {
+      "party": "Engineer",
+      "action": "shall",
+      "description": "Clause 3                               The Engineer\n    Sub-Clause 3.1                     Engineer's Duties and Authority\n\n    Any requirements for Employer's approval should be set out in the Partic"
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "Additional Sub-Clause Management Meetings\n\n    EXAMPLE SUB-CLAUSE\n                                       The Engineer or the Contractor's Representative may require the other\n                         "
+    },
+    {
+      "party": "Engineer",
+      "action": "may",
+      "description": "Additional Sub-Clause Management Meetings\n\n    EXAMPLE SUB-CLAUSE\n                                       The Engineer or the Contractor's Representative may require the other\n                         "
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "The Engineer shall record the business of management\n                                       meetings and supply copies of the record to those attending the meeting\n    except: example text between lin"
+    },
+    {
+      "party": "Engineer",
+      "action": "shall",
+      "description": "The Engineer shall record the business of management\n                                       meetings and supply copies of the record to those attending the meeting\n    except: example text between lin"
+    }
+  ],
+  "relatedClauses": [
+    "3",
+    "3.1"
+  ],
+  "keywords": [
+    "additional sub",
+    "authority\n\n    any",
+    "clause",
+    "clause management meetings",
+    "clauses",
+    "conditions",
+    "contract",
+    "contractor",
+    "duties",
+    "employer",
+    "engineer",
+    "particular conditions",
+    "representative",
+    "the engineer",
+    "the engineer\n    sub"
+  ],
+  "parties": [
+    "Contractor",
+    "Employer",
+    "Engineer"
+  ],
+  "metadata": {
+    "section": "General Conditions",
+    "importance": "high",
+    "category": "administrative",
+    "hasSubClauses": false,
+    "references": {
+      "crossReferences": [
+        "3",
+        "3.1"
+      ],
+      "externalDocs": [
+        "Contract"
+      ]
+    }
+  },
+  "subClauses": []
+}

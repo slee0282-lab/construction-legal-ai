@@ -1,0 +1,64 @@
+{
+  "clauseId": "15",
+  "clauseNumber": "15",
+  "title": "Termination by Employer",
+  "level": 1,
+  "summary": "Clause 15                              Termination by Employer\n        Sub-Clause 15.2                     Termination by Employer",
+  "fullText": "Clause 15                              Termination by Employer\n        Sub-Clause 15.2                     Termination by Employer\n\n        Before inviting tenders, the Employer should verify that the wording of this Sub-Clause, and each\n        anticipated ground for termination, is consistent with the law governing the Contract.\n\n        Sub-Clause 15.5                     Employer's Entitlement to Termination\n\n        Unless inconsistent with the requirements of the Employer and/or financing institutions, a further\n        sentence may be added.\n\n        EXAMPLE                             Insert at the end of Sub-Clause 15.5:\n\n                                            The Employer shall also pay to the Contractor the amount of any other\n                                            loss or damage resulting from this termination.",
+  "obligations": [
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "Sub-Clause 15.5                     Employer's Entitlement to Termination\n\n        Unless inconsistent with the requirements of the Employer and/or financing institutions, a further\n        sentence m"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "EXAMPLE                             Insert at the end of Sub-Clause 15.5:\n\n                                            The Employer shall also pay to the Contractor the amount of any other\n           "
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "EXAMPLE                             Insert at the end of Sub-Clause 15.5:\n\n                                            The Employer shall also pay to the Contractor the amount of any other\n           "
+    }
+  ],
+  "relatedClauses": [
+    "15",
+    "15.2",
+    "15.5"
+  ],
+  "keywords": [
+    "clause",
+    "contract",
+    "contractor",
+    "employer",
+    "employer\n\n        before",
+    "employer\n        sub",
+    "entitlement",
+    "insert",
+    "termination",
+    "termination\n\n        unless",
+    "the employer"
+  ],
+  "parties": [
+    "Contractor",
+    "Employer"
+  ],
+  "metadata": {
+    "section": "General Conditions",
+    "importance": "high",
+    "category": "legal",
+    "hasSubClauses": false,
+    "references": {
+      "crossReferences": [
+        "15",
+        "15.2",
+        "15.5"
+      ],
+      "externalDocs": [
+        "Contract"
+      ]
+    }
+  },
+  "subClauses": []
+}

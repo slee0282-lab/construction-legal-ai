@@ -1,0 +1,328 @@
+{
+  "clauseId": "14",
+  "clauseNumber": "14",
+  "title": "Contract Price and Payment",
+  "level": 1,
+  "summary": "Clause 14                              Contract Price and Payment\n        Sub-Clause 14.1                     The Contract Price",
+  "fullText": "Clause 14                              Contract Price and Payment\n        Sub-Clause 14.1                     The Contract Price\n\n        When writing the Particular Conditions, consideration should be given to the amount and timing of\n        payment(s) to the Contractor. A positive cash flow is clearly of benefit to the Contractor, and\n        tenderers will take account of the interim payment procedures when preparing their tenders.\n\n        Additional Sub-Clauses may be required to cover any exceptions to the options set out in Sub-\n        Clause 14.1, and any other matters relating to payment.\n\n        Cost-plus contracts, under which the actual Costs are determined and paid, are unusual and only\n        used when (for reasons of urgency or otherwise) the Employer is willing to accept the risks\n        involved. If the Contractor is to be paid actual Costs, Clause 12 should be replaced by provisions\n        describing the method of determining the Costs and Contract Price. As a result, the provisions in\n        the General Conditions which entitle the Contractor to payment of additional Costs will generally\n        be of no effect.\n\n\n        Sub-Clause 14.1(a) would not apply if payment is to be made on a lump sum basis.\n\n        Lump sum contracts may be suitable if the tender documents include details which are sufficiently\n        complete for construction and for Variations to be unlikely. From the information supplied in the\n        tender documents, the Contractor can prepare any other details necessary, and construct the\n        Works, without having to refer back to the Engineer for clarification or further information.\n\n        Further design by the Contractor (under sub-paragraphs (a) to (d) of Sub-Clause 4.1) is not\n        precluded. However, these Conditions would be inappropriate if significant design input by the\n        Contractor is required. In those cases, FIDIC's other forms may be more appropriate: see FIDIC's\n        Conditions of Contract for Plant and Design-Build or Conditions of Contract for EPC/Turnkey\n        Projects.\n\n        For a lump sum contract, the tender documents should include a schedule of payments (see Sub-\n        Clause 14.4), and any drawings required for construction may be specified as being Contractor's\n        Documents. The Specification should describe the procedures under which the Contractor submits\n        these Documents for the Engineer to approve.\n\n        EXAMPLE PROVISIONS FOR A LUMP SUM CONTRACT\n\n                                            Delete Clause 12.\n                                            Delete the last sentence of Sub-Clause 13.3 and substitute:\n12       except: example text between lines may be copied\n\f                                   Upon instructing or approving a Variation, the Engineer shall proceed in\n                                   accordance with Sub-Clause 3.5 to agree or determine adjustments to\n                                   the Contract Price and to the schedule of payments under Sub-Clause\n                                   14.4. These adjustments shall include reasonable profit, and shall take\n                                   account of the Contractor's submissions under Sub-Clause 13.2 if\n                                   applicable.\n\n                                   Delete sub-paragraph (a) of Sub-Clause 14.1 and substitute:\n\n                                   (a)      the Contract Price shall be the lump sum Accepted Contract\n                                            Amount and be subject to adjustments in accordance with the\n                                            Contract;\n\nIf Sub-Clause 14.1(b) is not to apply, additional Sub-Clause(s) should be added.\n\nEXAMPLE SUB-CLAUSE ON EXEMPTION FROM DUTIES\n\n                                   All Goods imported by the Contractor into the Country shall be exempt\n                                   from customs and other import duties, if the Employer's prior written\n                                   approval is obtained for import. The Employer shall endorse the\n                                   necessary exemption documents prepared by the Contractor for\n                                   presentation in order to clear the Goods through Customs, and shall also\n                                   provide the following exemption documents:\n\n                                   (describe the necessary documents, which the Contractor will be unable\n                                   to prepare)\n\n                                   If exemption is not then granted, the customs duties payable and paid\n                                   shall be reimbursed by the Employer.\n\n                                   All imported Goods, which are not incorporated in or expended in\n                                   connection with the Works, shall be exported on completion of the\n                                   Contract. If not exported, the Goods will be assessed fo",
+  "obligations": [
+    {
+      "party": "Contractor",
+      "action": "will",
+      "description": "A positive cash flow is clearly of benefit to the Contractor, and\n        tenderers will take account of the interim payment procedures when preparing their tenders",
+      "condition": "when preparing their tenders"
+    },
+    {
+      "party": "Contractor",
+      "action": "will",
+      "description": "As a result, the provisions in\n        the General Conditions which entitle the Contractor to payment of additional Costs will generally\n        be of no effect"
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "For a lump sum contract, the tender documents should include a schedule of payments (see Sub-\n        Clause 14.4), and any drawings required for construction may be specified as being Contractor's\n  "
+    },
+    {
+      "party": "Engineer",
+      "action": "shall",
+      "description": "Delete the last sentence of Sub-Clause 13.3 and substitute:\n12       except: example text between lines may be copied\n\f                                   Upon instructing or approving a Variation, the"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "These adjustments shall include reasonable profit, and shall take\n                                   account of the Contractor's submissions under Sub-Clause 13.2 if\n                                  "
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE ON EXEMPTION FROM DUTIES\n\n                                   All Goods imported by the Contractor into the Country shall be exempt\n                                   from customs an"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE ON EXEMPTION FROM DUTIES\n\n                                   All Goods imported by the Contractor into the Country shall be exempt\n                                   from customs an"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "The Employer shall endorse the\n                                   necessary exemption documents prepared by the Contractor for\n                                   presentation in order to clear the Goo"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "The Employer shall endorse the\n                                   necessary exemption documents prepared by the Contractor for\n                                   presentation in order to clear the Goo"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE ON EXEMPTION FROM TAXES\n\n                                   Expatriate (foreign) personnel shall not be liable for income tax levied in\n                                   the Countr"
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "If any\nexcept: example text between lines may be copied                                                                13\n\f                                        Contractor's Personnel have part of t"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "The Employer shall seek exemption for the purposes of this Sub-\n                                        Clause"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "If it is not granted, the relevant taxes paid shall be\n                                        reimbursed by the Employer"
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "Sub-Clause 14.8                    Delayed Payment\n\n     If the discount rate of the central bank in the country of the currency of payment is not a\n     reasonable basis for assessing the Contractor'"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE FOR RELEASE OF RETENTION\n\n                                        When the Retention Money has reached three-fifths (60%) of the limit\n                                        of Ret"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE FOR RELEASE OF RETENTION\n\n                                        When the Retention Money has reached three-fifths (60%) of the limit\n                                        of Ret"
+    },
+    {
+      "party": "Engineer",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE FOR RELEASE OF RETENTION\n\n                                        When the Retention Money has reached three-fifths (60%) of the limit\n                                        of Ret"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "The Contractor shall ensure that the guarantee is valid and\n14   except: example text between lines may be copied\n\f                                        enforceable until the Contractor has executed"
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "The following examples indicate some of the topics\n     which the institution's requirements may cover:\n\n     (a)     prohibition from discrimination against the shipping companies of any one country;"
+    },
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "The following examples indicate some of the topics\n     which the institution's requirements may cover:\n\n     (a)     prohibition from discrimination against the shipping companies of any one country;"
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "However, where the financing is not tied to the export of goods and services from any particular\n     country but is simply provided by commercial banks lending to the Employer, those banks may be\n   "
+    },
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "However, where the financing is not tied to the export of goods and services from any particular\n     country but is simply provided by commercial banks lending to the Employer, those banks may be\n   "
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "These banks may wish the\n     Contract to exclude any reference to the financing arrangements, and/or to restrict the Contractor's\n     rights under Clause 16"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "FORM OF SUB-CLAUSE WHICH A FINANCING INSTITUTION MAY REQUIRE\n\n                                        The Accepted Contract Amount is made up as follows:\n\n                                        (brea"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "FORM OF SUB-CLAUSE WHICH A FINANCING INSTITUTION MAY REQUIRE\n\n                                        The Accepted Contract Amount is made up as follows:\n\n                                        (brea"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "(a)            % of the Accepted Contract Amount shall be payable by a\n                                                direct payment from the Employer to the Contractor within 28\n                    "
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "(a)            % of the Accepted Contract Amount shall be payable by a\n                                                direct payment from the Employer to the Contractor within 28\n                    "
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "(b)            % of the contract price for the supply of Plant shall be\n                                                payable as follows:\n\n                                                (i)        "
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "(b)            % of the contract price for the supply of Plant shall be\n                                                payable as follows:\n\n                                                (i)        "
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "(c)     the balance of the Contract Price shall be payable as follows:\n\n                                                (i)            % of the estimated contract value of the services\n16   except: ex"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "(c)     the balance of the Contract Price shall be payable as follows:\n\n                                                (i)            % of the estimated contract value of the services\n16   except: ex"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "(d)      The direct payments by the Employer specified in sub-paragraph\n                                            (b) shall be made by an irrevocable letter of credit established by\n                "
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "(d)      The direct payments by the Employer specified in sub-paragraph\n                                            (b) shall be made by an irrevocable letter of credit established by\n                "
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "The above arrangements (involving financing institution(s), Employer and Contractor) may be\ninitiated by the Employer; or by the Contractor, before submitting the Tender"
+    },
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "The above arrangements (involving financing institution(s), Employer and Contractor) may be\ninitiated by the Employer; or by the Contractor, before submitting the Tender"
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "Alternatively, the\nContractor may be prepared to initiate financing arrangements and retain responsibility for them,\nalthough he would probably be unable or unwilling to provide finance from his own r"
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "It may be appropriate for the Employer, when preparing the tender documents, to anticipate the\nlatter requirement by undertaking to provide a guarantee for the element of payment which the\nContractor ",
+      "condition": "when the Works are complete"
+    },
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "It may be appropriate for the Employer, when preparing the tender documents, to anticipate the\nlatter requirement by undertaking to provide a guarantee for the element of payment which the\nContractor ",
+      "condition": "when the Works are complete"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "EXAMPLE PROVISIONS FOR CONTRACTOR FINANCE\n\n                                   The Employer shall obtain (at his cost) a payment guarantee in the\n                                   amount and currencie"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "The Employer shall deliver the guarantee to the\n                                   Contractor within 28 days after both Parties have entered into the\n                                   Contract Agreem"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "The Employer shall deliver the guarantee to the\n                                   Contractor within 28 days after both Parties have entered into the\n                                   Contract Agreem"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "The guarantee shall be in the form annexed to\n                                   these Particular Conditions, or in another form acceptable to the\n                                   Contractor"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "Unless and until the Contractor receives the guarantee, the\n                                   Engineer shall not give the notice under Sub-Clause 8.1"
+    },
+    {
+      "party": "Engineer",
+      "action": "shall",
+      "description": "Unless and until the Contractor receives the guarantee, the\n                                   Engineer shall not give the notice under Sub-Clause 8.1"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "The guarantee shall be returned to the Employer at the earliest of the\n                                   following dates:\n\n                                   (a)      when the Contractor has been pai",
+      "condition": "when the Contractor has been paid the Accepted Contract Amount;"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "The guarantee shall be returned to the Employer at the earliest of the\n                                   following dates:\n\n                                   (a)      when the Contractor has been pai",
+      "condition": "when the Contractor has been paid the Accepted Contract Amount;"
+    }
+  ],
+  "relatedClauses": [
+    "12",
+    "12.",
+    "13.2",
+    "13.3",
+    "14",
+    "14.1",
+    "14.15",
+    "14.2",
+    "14.4",
+    "14.4.",
+    "14.7",
+    "14.8",
+    "14.9",
+    "14.9.",
+    "16.",
+    "3.5",
+    "4.1",
+    "4.2",
+    "8.1."
+  ],
+  "keywords": [
+    "accepted contract\n                                            amount",
+    "accepted contract amount",
+    "additional sub",
+    "advance payment\n\n     when",
+    "all goods",
+    "alternatively",
+    "annex",
+    "appendix",
+    "bank",
+    "build",
+    "clause",
+    "clauses",
+    "conditions",
+    "contract",
+    "contract\nprice"
+  ],
+  "parties": [
+    "Contractor",
+    "Employer",
+    "Engineer"
+  ],
+  "metadata": {
+    "section": "General Conditions",
+    "importance": "high",
+    "category": "financial",
+    "hasSubClauses": false,
+    "references": {
+      "crossReferences": [
+        "12",
+        "12.",
+        "13.2",
+        "13.3",
+        "14",
+        "14.1",
+        "14.15",
+        "14.2",
+        "14.4",
+        "14.4.",
+        "14.7",
+        "14.8",
+        "14.9",
+        "14.9.",
+        "16.",
+        "3.5",
+        "4.1",
+        "4.2",
+        "8.1."
+      ],
+      "externalDocs": [
+        "Schedule",
+        "CONTRACT",
+        "Specification",
+        "schedule",
+        "contract",
+        "drawings",
+        "Contract",
+        "Appendix to Tender"
+      ]
+    }
+  },
+  "subClauses": []
+}

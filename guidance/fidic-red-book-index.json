@@ -1,0 +1,129 @@
+{
+  "document": "FIDIC Red Book 1999",
+  "fullTitle": "Conditions of Contract for Construction",
+  "edition": "First Edition 1999",
+  "isbn": "2-88432-022-9",
+  "totalClauses": 20,
+  "clauses": [
+    {
+      "clauseId": "1",
+      "title": "General Provisions",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "2",
+      "title": "The Employer",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "3",
+      "title": "The Engineer",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "4",
+      "title": "The Contractor",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "5",
+      "title": "Nominated Subcontractors",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "6",
+      "title": "Staff and Labour",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "7",
+      "title": "Plant, Materials and Workmanship",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "8",
+      "title": "Commencement, Delays and Suspension",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "9",
+      "title": "Tests on Completion",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "10",
+      "title": "Employer's Taking Over",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "11",
+      "title": "Defects Liability",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "12",
+      "title": "Measurement and Evaluation",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "13",
+      "title": "Variations and Adjustments",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "14",
+      "title": "Contract Price and Payment",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "15",
+      "title": "Termination by Employer",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "16",
+      "title": "Suspension and Termination by Contractor",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "17",
+      "title": "Risk and Responsibility",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "18",
+      "title": "Insurance",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "19",
+      "title": "Force Majeure",
+      "level": 1,
+      "hasSubClauses": false
+    },
+    {
+      "clauseId": "20",
+      "title": "Claims, Disputes and Arbitration",
+      "level": 1,
+      "hasSubClauses": false
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "clauseId": "20",
+  "clauseNumber": "20",
+  "title": "Claims, Disputes and Arbitration",
+  "level": 1,
+  "summary": "Clause 20                             Claims, Disputes and Arbitration\n   Sub-Clause 20.2                    Appointment of the Dispute Adjudication Board",
+  "fullText": "Clause 20                             Claims, Disputes and Arbitration\n   Sub-Clause 20.2                    Appointment of the Dispute Adjudication Board\n\n   Unless the Engineer (although appointed by the Employer) is to make the pre-arbitral decisions\n   under this Clause 20, in accordance with the alternative option described below, the Contract\n   should include the provisions under Clause 20 which, whilst not discouraging the Parties from\n   reaching agreement on disputes as the works proceed, allow them to refer contentious matters to\n   an impartial dispute adjudication board (\"DAB\").\n\n   The adjudication procedure depends for its success on, amongst other things, the Parties'\n   confidence in the agreed individual(s) who will serve on the DAB. Therefore, it is essential that\n   candidates for this position are not imposed by either Party on the other Party; and that, if the\n   individual is selected under Sub-Clause 20.3, the selection is made by a wholly impartial entity.\n   FIDIC is prepared to perform this role, if this authority has been delegated in accordance with the\n   example wording in the Appendix to Tender.\n\n   It is preferable, but not essential, for the individual(s) to be agreed before the Letter of Acceptance\n   is issued, and for the DAB to visit the Site on a regular basis. Under the example text in the\n   Appendix to Tender, the Parties may either so agree before the Letter of Acceptance is issued or\n   agree the appointment within the specified period thereafter. Alternatively, the Parties may prefer\n   to defer the appointment until a dispute has arisen, in which case Sub-Clause 20.2 plus the\n   Appendix - General Conditions of Dispute Adjudication Agreement with its Annex (Procedural\n   Rules) and the Dispute Adjudication Agreement should be amended to comply with the wording\n   except: example text between lines may be copied                                                     19\n\f     contained in the corresponding sections of FIDIC’s Conditions of Contract for Plant and Design -\n     Build.\n\n     Sub-Clause 20.2 provides for two alternative arrangements for the DAB:\n\n     (a)     one person, who acts as the sole member of the DAB, having entered into a tripartite\n             agreement with both Parties; or\n\n     (b)     a DAB of three persons, each of whom has entered into a tripartite agreement with both Parties.\n\n     The form of this tripartite agreement could be one of the two alternatives shown at the end of this\n     publication, as appropriate to the arrangement adopted. Both of these forms incorporate (by\n     reference) the General Conditions of Dispute Adjudication Agreement, which are included as the\n     Appendix to the General Conditions because they are also referred to in Sub-Clause 20.2. Under\n     either of these alternative forms of Dispute Adjudication Agreement, each individual person is\n     referred to as a Member.\n\n     At an early stage, consideration should be given as to whether a one-person or three-person DAB\n     is preferable for a particular project, taking account of its size, duration and the fields of expertise\n     which will be involved. For some projects, it may be considered appropriate to appoint a one-\n     person DAB for each major field of expertise relevant to the Works; however, this may give rise to\n     problems if, when a dispute arises, the Parties cannot agree which field is applicable and, there-\n     fore, to whom the dispute should be referred.\n\n     For a one-person DAB to be mutually agreed, the Employer (or the tenderer) could propose the\n     names and curriculum vitae of suitable persons, for the tenderer (or the Employer) to accept. It may\n     be advisable to propose alternates in case some subsequently decline the appointment, assuming\n     that they have not previously indicated their willingness to accept. Each Party may be reluctant to\n     choose names from a list of people who have already been contacted by the other Party.\n\n     For a three-person DAB, the Employer and the tenderer may each propose one member, similar to\n     the above procedure, for the tenderer and the Employer respectively to accept. For the chairman, the\n     Employer (or the tenderer) could similarly propose suitable persons for the tenderer (or the Employer)\n     to accept. It may be appropriate for the chairman's retainer fee to be more than that of the other two\n     members, reflecting the additional administrative tasks which a chairman will have to perform.\n\n     The appointment of the DAB may be facilitated, especially if the members are not to be appointed\n     at the commencement of the Contract, by including an agreed list of potential members in the\n     Contract: in a Schedule.\n\n     Alternatively, the Engineer may make these pre-arbitral decisions. This alternative, which has been\n     the Engineer's traditional role in common law countries, may be appropriate if the Engineer is an\n     independent professional consulting en",
+  "obligations": [
+    {
+      "party": "DAB",
+      "action": "will",
+      "description": "The adjudication procedure depends for its success on, amongst other things, the Parties'\n   confidence in the agreed individual(s) who will serve on the DAB"
+    },
+    {
+      "party": "DAB",
+      "action": "will",
+      "description": "At an early stage, consideration should be given as to whether a one-person or three-person DAB\n     is preferable for a particular project, taking account of its size, duration and the fields of expe"
+    },
+    {
+      "party": "DAB",
+      "action": "may",
+      "description": "For some projects, it may be considered appropriate to appoint a one-\n     person DAB for each major field of expertise relevant to the Works; however, this may give rise to\n     problems if, when a d"
+    },
+    {
+      "party": "DAB",
+      "action": "may",
+      "description": "For a three-person DAB, the Employer and the tenderer may each propose one member, similar to\n     the above procedure, for the tenderer and the Employer respectively to accept"
+    },
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "For a three-person DAB, the Employer and the tenderer may each propose one member, similar to\n     the above procedure, for the tenderer and the Employer respectively to accept"
+    },
+    {
+      "party": "DAB",
+      "action": "may",
+      "description": "The appointment of the DAB may be facilitated, especially if the members are not to be appointed\n     at the commencement of the Contract, by including an agreed list of potential members in the\n     "
+    },
+    {
+      "party": "Engineer",
+      "action": "may",
+      "description": "Alternatively, the Engineer may make these pre-arbitral decisions"
+    },
+    {
+      "party": "Engineer",
+      "action": "may",
+      "description": "This alternative, which has been\n     the Engineer's traditional role in common law countries, may be appropriate if the Engineer is an\n     independent professional consulting engineer with the exper"
+    },
+    {
+      "party": "Employer",
+      "action": "must",
+      "description": "The Employer should recognise that, although the\n     Engineer generally acts for the Employer as specified in Sub-Clause 3.1(a), the Engineer will make\n     these pre-arbitral decisions impartially a"
+    },
+    {
+      "party": "Engineer",
+      "action": "must",
+      "description": "The Employer should recognise that, although the\n     Engineer generally acts for the Employer as specified in Sub-Clause 3.1(a), the Engineer will make\n     these pre-arbitral decisions impartially a"
+    },
+    {
+      "party": "DAB",
+      "action": "shall",
+      "description": "Delete the second paragraph of Sub-Clause 20.4 and substitute:\n\n                                        The Engineer shall act as the DAB in accordance with this Sub-Clause\n                           "
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "Delete the second paragraph of Sub-Clause 20.4 and substitute:\n\n                                        The Engineer shall act as the DAB in accordance with this Sub-Clause\n                           "
+    },
+    {
+      "party": "Engineer",
+      "action": "shall",
+      "description": "Delete the second paragraph of Sub-Clause 20.4 and substitute:\n\n                                        The Engineer shall act as the DAB in accordance with this Sub-Clause\n                           "
+    },
+    {
+      "party": "DAB",
+      "action": "shall",
+      "description": "In the event\n                                        that the Employer intends to replace the Engineer, the Employer's notice\n                                        under Sub-Clause 3.4 shall include"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "In the event\n                                        that the Employer intends to replace the Engineer, the Employer's notice\n                                        under Sub-Clause 3.4 shall include"
+    },
+    {
+      "party": "Engineer",
+      "action": "shall",
+      "description": "In the event\n                                        that the Employer intends to replace the Engineer, the Employer's notice\n                                        under Sub-Clause 3.4 shall include"
+    },
+    {
+      "party": "Contractor",
+      "action": "will",
+      "description": "If the Contractor fails to so perform his obligations and liabilities and comply with the Contract, we\nwill indemnify the Employer against and from all damages, losses and expenses (including legal fe"
+    },
+    {
+      "party": "Employer",
+      "action": "will",
+      "description": "If the Contractor fails to so perform his obligations and liabilities and comply with the Contract, we\nwill indemnify the Employer against and from all damages, losses and expenses (including legal fe"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "If the Contract does not come into full force and effect within a year of the date of this\nguarantee, or if you demonstrate that you do not intend to enter into the Contract with the\nContractor, this "
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "This guarantee shall continue in full force\nand effect until all the Contractor's obligations and liabilities under the Contract have been\ndischarged, when this guarantee shall expire and shall be ret"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "This guarantee shall apply and be supplemental to the Contract as amended or varied by the\nEmployer and the Contractor from time to time"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "This guarantee shall apply and be supplemental to the Contract as amended or varied by the\nEmployer and the Contractor from time to time"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "Our obligations and liabilities under this guarantee\nshall not be discharged by any allowance of time or other indulgence whatsoever by the\nEmployer to the Contractor, or by any variation or suspensio"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "Our obligations and liabilities under this guarantee\nshall not be discharged by any allowance of time or other indulgence whatsoever by the\nEmployer to the Contractor, or by any variation or suspensio"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "Wherefore this Bond has been issued by the Principal and the Guarantor on (date)\n\n     Signature(s) for and on behalf of the Principal\n\n     Signature(s) for and on behalf of the Guarantor\n     (1)   "
+    },
+    {
+      "party": "DAB",
+      "action": "shall",
+      "description": "We accept your suggestions for the appointment of the DAB, as set out in Schedule\n\n        [ We have completed the Schedule by adding our suggestions for the other Member of the\n        DAB, but these"
+    },
+    {
+      "party": "DAB",
+      "action": "may",
+      "description": "Signature                           in the capacity of\n\nduly authorised to sign tenders for and on behalf of\n\n\nAddress:\n\n\n\n\nDate:\n\n\n\n\n* If the Tenderer does not accept, this paragraph may be deleted a"
+    },
+    {
+      "party": "Employer",
+      "action": "must",
+      "description": "i\n\f     APPENDIX TO TENDER\n         [ Note: with the exception of the items for which the Employer's requirements have been\n         inserted, the following information must be completed before the Te"
+    },
+    {
+      "party": "DAB",
+      "action": "shall",
+      "description": "days\n\n     Date by which the DAB shall be appointed"
+    },
+    {
+      "party": "DAB",
+      "action": "shall",
+      "description": "The DAB shall be          .............."
+    },
+    {
+      "party": "Contractor",
+      "action": "will",
+      "description": "This\n     italicised text should not be included in the tender documents, as it will generally appear\n     inappropriate to tenderers.]\n\n\n\n\n     Initials of signatory of Tender\n\niv\n\fCONTRACT AGREEMENT"
+    },
+    {
+      "party": "Employer",
+      "action": "will",
+      "description": "This\n     italicised text should not be included in the tender documents, as it will generally appear\n     inappropriate to tenderers.]\n\n\n\n\n     Initials of signatory of Tender\n\niv\n\fCONTRACT AGREEMENT"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "This Dispute Adjudication Agreement shall be governed by the law of\n\n\n\n\n     SIGNED by:                          SIGNED by:                            SIGNED by:\n\n     for and on behalf of the Employe"
+    },
+    {
+      "party": "DAB",
+      "action": "shall",
+      "description": "This Dispute Adjudication Agreement shall be governed by the law of\n\n\n\n\n     SIGNED by:                          SIGNED by:                            SIGNED by:\n\n     for and on behalf of the Employe"
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "This Dispute Adjudication Agreement shall be governed by the law of\n\n\n\n\n     SIGNED by:                          SIGNED by:                            SIGNED by:\n\n     for and on behalf of the Employe"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "This Dispute Adjudication Agreement shall be governed by the law of\n\n\nSIGNED by:                          SIGNED by:                            SIGNED by:\n\nfor and on behalf of the Employer   for and "
+    },
+    {
+      "party": "Employer",
+      "action": "shall",
+      "description": "This Dispute Adjudication Agreement shall be governed by the law of\n\n\nSIGNED by:                          SIGNED by:                            SIGNED by:\n\nfor and on behalf of the Employer   for and "
+    }
+  ],
+  "relatedClauses": [
+    "1.1.3.3",
+    "1.1.5.6",
+    "1.14",
+    "1.6",
+    "10",
+    "13.8",
+    "14.2",
+    "14.5",
+    "14.6",
+    "14.9",
+    "15.2",
+    "20",
+    "20.2",
+    "20.2.",
+    "20.3",
+    "20.4",
+    "20.5",
+    "20.6",
+    "3.1",
+    "3.4",
+    "4.2",
+    "6",
+    "8.7"
+  ],
+  "keywords": [
+    "acceptable",
+    "acceptance",
+    "accepted contract\n                                                                               amount",
+    "accepted contract amount",
+    "accepted contract amount\n  plant",
+    "accepted contract amount\nlimit",
+    "accepted contract amount\nstart",
+    "addenda nos",
+    "address",
+    "adjustments",
+    "agreement",
+    "alternatively",
+    "although",
+    "amicable",
+    "amicable settlement\n\nthe"
+  ],
+  "parties": [
+    "Contractor",
+    "DAB",
+    "Employer",
+    "Engineer"
+  ],
+  "metadata": {
+    "section": "General Conditions",
+    "importance": "high",
+    "category": "legal",
+    "hasSubClauses": false,
+    "references": {
+      "crossReferences": [
+        "1.1.3.3",
+        "1.1.5.6",
+        "1.14",
+        "1.6",
+        "10",
+        "13.8",
+        "14.2",
+        "14.5",
+        "14.6",
+        "14.9",
+        "15.2",
+        "20",
+        "20.2",
+        "20.2.",
+        "20.3",
+        "20.4",
+        "20.5",
+        "20.6",
+        "3.1",
+        "3.4",
+        "4.2",
+        "6",
+        "8.7"
+      ],
+      "externalDocs": [
+        "APPENDIX TO TENDER",
+        "CONTRACT",
+        "Specification",
+        "contract",
+        "Bill of Quantities",
+        "Drawings",
+        "Schedule",
+        "Appendix to Tender",
+        "Contract"
+      ]
+    }
+  },
+  "subClauses": []
+}

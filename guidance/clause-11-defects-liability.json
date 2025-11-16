@@ -1,0 +1,35 @@
+{
+  "clauseId": "11",
+  "clauseNumber": "11",
+  "title": "Defects Liability",
+  "level": 1,
+  "summary": "Clause 11                              Defects Liability\n    Sub-Clause 11.10                   Unfulfilled Obligations",
+  "fullText": "Clause 11                              Defects Liability\n    Sub-Clause 11.10                   Unfulfilled Obligations\n\n    It may be necessary to review this Sub-Clause for the period of liability imposed by the applicable law.",
+  "obligations": [],
+  "relatedClauses": [
+    "11",
+    "11.10"
+  ],
+  "keywords": [
+    "clause",
+    "defects",
+    "defects liability\n    sub",
+    "liability",
+    "unfulfilled obligations\n\n    it"
+  ],
+  "parties": [],
+  "metadata": {
+    "section": "General Conditions",
+    "importance": "high",
+    "category": "legal",
+    "hasSubClauses": false,
+    "references": {
+      "crossReferences": [
+        "11",
+        "11.10"
+      ],
+      "externalDocs": []
+    }
+  },
+  "subClauses": []
+}

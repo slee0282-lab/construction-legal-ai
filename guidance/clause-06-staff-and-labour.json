@@ -1,0 +1,129 @@
+{
+  "clauseId": "6",
+  "clauseNumber": "6",
+  "title": "Staff and Labour",
+  "level": 1,
+  "summary": "Clause 6                               Staff and Labour\n        Sub-Clause 6.5                     Working Hours",
+  "fullText": "Clause 6                               Staff and Labour\n        Sub-Clause 6.5                     Working Hours\n\n        If the Employer does not wish to specify working hours in the Appendix to Tender, or to restrict\n        them to the times specified by the Tenderer (in order to plan the Engineer's supervision, for\n        example), this Sub-Clause may be deleted.\n\n        Sub-Clause 6.6                     Facilities for Staff and Labour\n\n        If the Employer will make some accommodation available, his obligations to do so should be\n        specified.\n8       except: example text between lines may be copied\n\fSub-Clause 6.8                     Contractor's Superintendence\n\nIf the ruling language is not the same as the language for day to day communications (under Sub-\nClause 1.4), or if for any other reason it is necessary to stipulate that the Contractor's\nsuperintending staff shall be fluent in a particular language, the following sentence may be\nadded.\n\nEXAMPLE\n                                   Insert at the end of Sub-Clause 6.8:\n                                   A reasonable proportion of the Contractor's superintending staff shall\n                                   have a working knowledge of\n\n                                   (insert name of language),\n\n                                   or the Contractor shall have a sufficient number of competent\n                                   interpreters available on Site during all working hours.\n\nAdditional Sub-Clauses\n\nIt may be necessary to add a few sub-clauses to take account of the circumstances and locality of\nthe Site:\n\nEXAMPLE SUB-CLAUSE\n\n                                   Foreign Staff and Labour\n\n                                   The Contractor may import any personnel who are necessary for the\n                                   execution of the Works. The Contractor must ensure that these\n                                   personnel are provided with the required residence visas and work\n                                   permits. The Contractor shall be responsible for the return to the place\n                                   where they were recruited or to their domicile of imported Contractor's\n                                   Personnel. In the event of the death in the Country of any of these\n                                   personnel or members of their families, the Contractor shall similarly be\n                                   responsible for making the appropriate arrangements for their return or\n                                   burial.\n\nEXAMPLE SUB-CLAUSE\n\n                                   Measures against Insect and Pest Nuisance\n\n                                   The Contractor shall at all times take the necessary precautions to\n                                   protect all staff and labour employed on the Site from insect and pest\n                                   nuisance, and to reduce their danger to health. The Contractor shall\n                                   provide suitable prophylactics for the Contractor's Personnel and shall\n                                   comply with all the regulations of the local health authorities, including\n                                   use of appropriate insecticide.\n\nEXAMPLE SUB-CLAUSE\n\n                                   Alcoholic Liquor or Drugs\n\n                                   The Contractor shall not, otherwise than in accordance with the Laws of\n                                   the Country, import, sell, give, barter or otherwise dispose of any\n                                   alcoholic liquor or drugs, or permit or allow importation, sale, gift, barter\n                                   or disposal by Contractor's Personnel.\nexcept: example text between lines may be copied                                                              9\n\f         EXAMPLE SUB-CLAUSE\n                                            Arms and Ammunition\n\n                                            The Contractor shall not give, barter or otherwise dispose of to any\n                                            person, any arms or ammunition of any kind, or allow Contractor's\n                                            Personnel to do so.\n\n         EXAMPLE SUB-CLAUSE\n\n                                            Festivals and Religious Customs\n\n                                            The Contractor shall respect the Country's recognised festivals, days of\n                                            rest and religious or other customs.",
+  "obligations": [
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "Clause 6                               Staff and Labour\n        Sub-Clause 6.5                     Working Hours\n\n        If the Employer does not wish to specify working hours in the Appendix to Tend"
+    },
+    {
+      "party": "Engineer",
+      "action": "may",
+      "description": "Clause 6                               Staff and Labour\n        Sub-Clause 6.5                     Working Hours\n\n        If the Employer does not wish to specify working hours in the Appendix to Tend"
+    },
+    {
+      "party": "Employer",
+      "action": "will",
+      "description": "Sub-Clause 6.6                     Facilities for Staff and Labour\n\n        If the Employer will make some accommodation available, his obligations to do so should be\n        specified"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "8       except: example text between lines may be copied\n\fSub-Clause 6.8                     Contractor's Superintendence\n\nIf the ruling language is not the same as the language for day to day communi"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "EXAMPLE\n                                   Insert at the end of Sub-Clause 6.8:\n                                   A reasonable proportion of the Contractor's superintending staff shall\n              "
+    },
+    {
+      "party": "Contractor",
+      "action": "may",
+      "description": "Additional Sub-Clauses\n\nIt may be necessary to add a few sub-clauses to take account of the circumstances and locality of\nthe Site:\n\nEXAMPLE SUB-CLAUSE\n\n                                   Foreign Staf"
+    },
+    {
+      "party": "Contractor",
+      "action": "must",
+      "description": "The Contractor must ensure that these\n                                   personnel are provided with the required residence visas and work\n                                   permits"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "The Contractor shall be responsible for the return to the place\n                                   where they were recruited or to their domicile of imported Contractor's\n                             "
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "In the event of the death in the Country of any of these\n                                   personnel or members of their families, the Contractor shall similarly be\n                                  "
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE\n\n                                   Measures against Insect and Pest Nuisance\n\n                                   The Contractor shall at all times take the necessary precautions to"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "The Contractor shall\n                                   provide suitable prophylactics for the Contractor's Personnel and shall\n                                   comply with all the regulations of th"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE\n\n                                   Alcoholic Liquor or Drugs\n\n                                   The Contractor shall not, otherwise than in accordance with the Laws of\n           "
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "except: example text between lines may be copied                                                              9\n\f         EXAMPLE SUB-CLAUSE\n                                            Arms and Ammuni"
+    },
+    {
+      "party": "Contractor",
+      "action": "shall",
+      "description": "EXAMPLE SUB-CLAUSE\n\n                                            Festivals and Religious Customs\n\n                                            The Contractor shall respect the Country's recognised festi"
+    }
+  ],
+  "relatedClauses": [
+    "1.4",
+    "6",
+    "6.5",
+    "6.6",
+    "6.8"
+  ],
+  "keywords": [
+    "additional sub",
+    "alcoholic liquor",
+    "ammunition\n\n                                            the contractor",
+    "appendix",
+    "arms",
+    "clause",
+    "clauses\n\nit",
+    "contractor",
+    "country",
+    "drugs\n\n                                   the contractor",
+    "employer",
+    "engineer",
+    "facilities",
+    "festivals",
+    "foreign staff"
+  ],
+  "parties": [
+    "Contractor",
+    "Employer",
+    "Engineer"
+  ],
+  "metadata": {
+    "section": "General Conditions",
+    "importance": "high",
+    "category": "procedural",
+    "hasSubClauses": false,
+    "references": {
+      "crossReferences": [
+        "1.4",
+        "6",
+        "6.5",
+        "6.6",
+        "6.8"
+      ],
+      "externalDocs": [
+        "Appendix to Tender",
+        "Contract"
+      ]
+    }
+  },
+  "subClauses": []
+}

@@ -1,0 +1,60 @@
+{
+  "clauseId": "5",
+  "clauseNumber": "5",
+  "title": "Nominated Subcontractors",
+  "level": 1,
+  "summary": "Clause 5                               Nominated Subcontractors\n        In most cases under Sub-Clause 4.4, the Contractor selects Subcontractors, subject to any constraints\n        specified in the Contract.",
+  "fullText": "Clause 5                               Nominated Subcontractors\n        In most cases under Sub-Clause 4.4, the Contractor selects Subcontractors, subject to any constraints\n        specified in the Contract. Clause 5 provides for the particular situation whereby the Employer may\n        select a Subcontractor, although the second sentence of Sub-Clause 4.4 should still apply.\n\n        The sub-paragraphs of Sub-Clause 5.2 indicate some of the problems which may have to be overcome.\n\n        If a nominated Subcontractor is to be required, full details should be included in the tender\n        documents. If the Employer anticipates that a Subcontractor is to be instructed under Clause 13\n        but is not to be a nominated Subcontractor, Clause 5 should be amended, describing the particular\n        circumstances.",
+  "obligations": [
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "Clause 5 provides for the particular situation whereby the Employer may\n        select a Subcontractor, although the second sentence of Sub-Clause 4.4 should still apply"
+    },
+    {
+      "party": "Subcontractor",
+      "action": "may",
+      "description": "Clause 5 provides for the particular situation whereby the Employer may\n        select a Subcontractor, although the second sentence of Sub-Clause 4.4 should still apply"
+    }
+  ],
+  "relatedClauses": [
+    "13",
+    "4.4",
+    "5",
+    "5.2"
+  ],
+  "keywords": [
+    "clause",
+    "contract",
+    "contractor",
+    "employer",
+    "nominated",
+    "nominated subcontractors\n        in",
+    "subcontractor",
+    "subcontractors"
+  ],
+  "parties": [
+    "Contractor",
+    "Employer",
+    "Subcontractor"
+  ],
+  "metadata": {
+    "section": "General Conditions",
+    "importance": "medium",
+    "category": "administrative",
+    "hasSubClauses": false,
+    "references": {
+      "crossReferences": [
+        "13",
+        "4.4",
+        "5",
+        "5.2"
+      ],
+      "externalDocs": [
+        "contract",
+        "Contract"
+      ]
+    }
+  },
+  "subClauses": []
+}

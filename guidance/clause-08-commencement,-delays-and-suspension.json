@@ -1,0 +1,69 @@
+{
+  "clauseId": "8",
+  "clauseNumber": "8",
+  "title": "Commencement, Delays and Suspension",
+  "level": 1,
+  "summary": "Clause 8                               Commencement, Delays and Suspension\n         Sub-Clause 8.2                     Time for Completion",
+  "fullText": "Clause 8                               Commencement, Delays and Suspension\n         Sub-Clause 8.2                     Time for Completion\n\n         If the Works are to be taken-over in stages, these stages should be defined as Sections, in the\n         Appendix to Tender.\n\n         Sub-Clause 8.7                     Delay Damages\n\n         Under many legal systems, the amount of these pre-defined damages must represent a reasonable\n         pre-estimate of the Employer's probable loss in the event of delay. If the Accepted Contract Amount\n         is to be quoted as the sum of figures in more than one currency, it may be preferable to define these\n         damages (per day) as the percentage reduction which would be applied to each of these figures. If\n         the Accepted Contract Amount is expressed in the Local Currency, the damages per day may either\n         be defined as a percentage or be defined as a figure in Local Currency: see Sub-Clause 14.15(b).\n\n         Additional Sub-Clause\n\n         Incentives for early completion may be included in the tender documents (although Sub-Clause\n         13.2 refers to accelerated completion):\n10       except: example text between lines may be copied\n\f    EXAMPLE SUB-CLAUSE\n                                       Sections are required to be completed by the dates given in the\n                                       Appendix to Tender in order that these Sections may be occupied and\n                                       used by the Employer in advance of the completion of the whole of the\n                                       Works. Details of the work required to be executed to entitle the\n                                       Contractor to bonus payments and the amount of the bonuses are\n                                       stated in the Specification.\n\n                                       For the purposes of calculating bonus payments, the dates given in the\n                                       Appendix to Tender for completion of Sections are fixed. No adjustments\n                                       of the dates by reason of granting an extension of the Time for\n                                       Completion will be allowed.",
+  "obligations": [
+    {
+      "party": "Employer",
+      "action": "must",
+      "description": "Sub-Clause 8.7                     Delay Damages\n\n         Under many legal systems, the amount of these pre-defined damages must represent a reasonable\n         pre-estimate of the Employer's probabl"
+    },
+    {
+      "party": "Employer",
+      "action": "may",
+      "description": "Additional Sub-Clause\n\n         Incentives for early completion may be included in the tender documents (although Sub-Clause\n         13.2 refers to accelerated completion):\n10       except: example t"
+    }
+  ],
+  "relatedClauses": [
+    "13.2",
+    "14.15",
+    "8",
+    "8.2",
+    "8.7"
+  ],
+  "keywords": [
+    "accepted contract amount",
+    "additional sub",
+    "appendix",
+    "clause",
+    "clause\n\n         incentives",
+    "commencement",
+    "completion",
+    "completion\n\n         if",
+    "contractor",
+    "delay damages\n\n         under",
+    "delays",
+    "details",
+    "employer",
+    "local currency",
+    "sections"
+  ],
+  "parties": [
+    "Contractor",
+    "Employer"
+  ],
+  "metadata": {
+    "section": "General Conditions",
+    "importance": "high",
+    "category": "technical",
+    "hasSubClauses": false,
+    "references": {
+      "crossReferences": [
+        "13.2",
+        "14.15",
+        "8",
+        "8.2",
+        "8.7"
+      ],
+      "externalDocs": [
+        "Appendix to Tender",
+        "Specification",
+        "Contract"
+      ]
+    }
+  },
+  "subClauses": []
+}

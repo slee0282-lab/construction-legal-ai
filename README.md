@@ -1,288 +1,142 @@
-# FIDIC Red Book 1999 - RAG Document Preparation
+# 🏗️ Construction Legal AI (CLA)
 
-A streamlined PDF-to-text extraction project to prepare FIDIC Red Book 1999 documentation for RAG (Retrieval-Augmented Generation) applications.
+**Version:** v1.0 (Skeleton Build)
 
-## Project Status: ✅ Ready for RAG
+**Status:** Active Development (Private Alpha)
 
-**Progress**: PDF successfully extracted to structured markdown format, optimized for embedding and retrieval.
+**Focus:** Contract-Centric Conflict Resolution
 
-## 📁 Project Structure
+**Legal Framework:** FIDIC Red Book (1999)
+
+## 💡 1. Project Vision
+
+**Construction Legal AI (CLA)** is a comprehensive, governance-ready solution designed to resolve bottlenecks in construction projects.
+
+Unlike generic chatbots, CLA is a **Contract-Centric Reasoning Engine**. It grounds every decision, claim assessment, and compliance check in the specific clauses of the project contract, using the **FIDIC Red Book (Conditions of Contract for Construction)** as the foundational ontology for legal terms and rules.
+
+### **Core Mandates**
+
+1. **Private Cloud First:** No client data touches public LLM APIs (OpenAI/Anthropic). We run entirely on-premise or in a private VPC.
+    
+2. **FIDIC-Grounded Reasoning:** The system's logic and ontology are built upon **FIDIC Red Book 1999** definitions (e.g., _Sub-Clause 20.1 "Contractor's Claims"_, _Sub-Clause 8.4 "Extension of Time"_). All reasoning is validated against these standard conditions plus the client's Particular Conditions.
+    
+3. **Policy Adaptive:** The system checks internal governance rules (Policy Packs) _before_ and _after_ generating a response to ensure commercial alignment.
+    
+
+## 🧱 2. System Architecture
+
+CLA operates as a **Modular Monolith** within a Dockerized environment, designed for eventual deployment to an AWS Private VPC.
+
+### **Logical Components**
+
+- **Presentation Layer (Frontend):** A React-based web dashboard for Construction Managers to submit claims and Legal Admins to upload contracts.
+    
+- **Orchestration Layer (Backend):** A Python-based "Brain" using **LangGraph**. It manages the flow between the database, the policy engine, and the LLM.
+    
+- **Parsing Layer (Doc Parser):** A dedicated module (`unstructured` + `pdfminer`) that parses raw PDF contracts and maps them to the **FIDIC Ontology** in Neo4j.
+    
+- **Inference Layer (Compute):** A local, containerized LLM engine (**Ollama/vLLM**) running Llama 3.1 70B.
+    
+
+### **Physical Stack (Docker Services)**
+
+|   |   |   |   |
+|---|---|---|---|
+|**Service Name**|**Technology**|**Port**|**Purpose**|
+|`backend`|**FastAPI + Python 3.14** (Managed by **UV**)|`8000`|The core API, Orchestrator, and Doc Parser. Built with UV for blazing fast dependency resolution.|
+|`frontend`|**React (Node 18)**|`3000`|The user interface.|
+|`neo4j`|**Neo4j Community**|`7474` / `7687`|The Legal Knowledge Graph (Stores FIDIC Clauses + Particular Conditions).|
+|`postgres`|**PostgreSQL 15**|`5432`|Audit logs, User sessions, Policy Pack storage.|
+|`llm_engine`|**Ollama**|`11434`|Local LLM Inference Server.|
+
+## 🚀 3. Quick Start (Local Dev)
+
+**Prerequisites:**
+
+- Docker & Docker Compose installed.
+    
+- Standard GPU (Nvidia) OR Apple Silicon (M1/M2/M3) recommended for local inference.
+    
+
+### **Step 1: Clone & Setup**
 
 ```
-construction-legal-ai/
-├── README.md                          # This file
-├── pyproject.toml                     # Project dependencies (uv)
-├── uv.lock                           # Dependency lock file
-├── src/
-│   └── pdf_parser.py                 # PyMuPDF-based PDF extractor
-├── docs/
-│   └── TECHNICAL_ANALYSIS.md         # Detailed technical documentation
-├── FIDIC-Red-Book-1999.pdf          # Source PDF (128 pages)
-└── FIDIC-Red-Book-1999.md           # Extracted markdown (PRIMARY RAG SOURCE)
+git clone [https://github.com/your-org/cla-system.git](https://github.com/your-org/cla-system.git)
+cd cla-system
 ```
 
-## 🎯 Primary Output for RAG
+### **Step 2: Run the Stack**
 
-**File**: `FIDIC-Red-Book-1999.md` (102KB)
+We use a single compose file to orchestrate the entire system. The backend build utilizes **UV** to rapidly resolve Python 3.14 dependencies.
 
-**Why this format is ideal for RAG:**
-- ✅ **Structured headers**: Each page marked with `# Page X` for easy chunking
-- ✅ **Clean text**: Plain text with minimal formatting overhead
-- ✅ **Metadata-friendly**: Page numbers easily extractable for source attribution
-- ✅ **Embedding-ready**: Works seamlessly with OpenAI, Cohere, or HuggingFace embeddings
-- ✅ **Lightweight**: 102KB (~25,000 words) for efficient vector storage
-
-**Content Coverage:**
-- Pages 1-9: Front matter (Title, Errata, Acknowledgements, Foreword)
-- Pages 10-90: Empty (reserved page numbers for print formatting)
-- Pages 91-128: Guidance for Particular Conditions, Forms, and Annexes
-
-## ⚠️ Important Note: Document Content
-
-The extracted PDF contains **Guidance and Forms**, NOT the actual General Conditions.
-
-**What's Included:**
-- ✅ Guidance for modifying contract clauses
-- ✅ Sample forms (Letter of Tender, Contract Agreement, etc.)
-- ✅ Annexes A-G (Security/Guarantee templates)
-
-**What's Missing:**
-- ❌ General Conditions - The actual contract text (Clauses 1-20)
-  - e.g., Full definitions in "1.1 Definitions"
-  - e.g., Complete obligations in "4.1 Contractor's General Obligations"
-
-**For complete RAG coverage**, you would need:
-- The actual General Conditions document (separate FIDIC publication)
-- Or supplement with FIDIC Yellow/Silver Book variants
-
-## 🚀 Quick Start
-
-### Prerequisites
-```bash
-# Install uv (if not already installed)
-curl -LsSf https://astral.sh/uv/install.sh | sh
-
-# Python 3.14 managed by uv
+```
+docker-compose up --build
 ```
 
-### Setup
-```bash
-# Initialize project
-uv sync
+_Wait for all containers to show "Healthy" or "Started"._
 
-# Verify Python version
-uv run python --version
-# Output: Python 3.14.x
+### **Step 3: Initialize the AI Model**
+
+On the first run, you need to pull the Llama 3 model into your local Ollama container.
+
+Open a new terminal window:
+
+```
+docker exec -it cla_llm_engine ollama run llama3
 ```
 
-### Extract PDF to Markdown
-```bash
-uv run python src/pdf_parser.py
+_This may take a few minutes depending on your internet speed (4GB download)._
+
+### **Step 4: Access the System**
+
+- **Frontend UI:** [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000 "null")
+    
+- **Backend API Docs:** [http://localhost:8000/docs](https://www.google.com/search?q=http://localhost:8000/docs "null")
+    
+- **Neo4j Browser:** [http://localhost:7474](https://www.google.com/search?q=http://localhost:7474 "null") (User: `neo4j`, Pass: `password`)
+    
+
+## 📂 4. Repository Structure
+
+```
+cla-system/
+├── docker-compose.yml          # The Master Orchestrator
+├── .env                        # Environment Secrets (Not in Git)
+├── backend/                    # The Python Core (Monolith)
+│   ├── Dockerfile              # Multi-stage build using Astral UV + Python 3.14
+│   ├── requirements.txt
+│   ├── src/
+│   │   ├── main.py             # API Entry Point
+│   │   ├── api/                # FastAPI Routes (Endpoints)
+│   │   ├── orchestrator/       # LangGraph Reasoning Logic
+│   │   ├── parser/             # Logic to parse PDFs into FIDIC Structure
+│   │   └── db/                 # Database Connectors (Neo4j/PG)
+├── frontend/                   # The React UI
+│   ├── Dockerfile
+│   ├── public/
+│   └── src/
+├── neo4j/                      # Persistent Graph Data
+└── postgres/                   # Persistent SQL Data
 ```
 
-**Output:**
-- `FIDIC-Red-Book-1999.md` - Markdown format with page headers ✅
+## 👥 5. Team Roles & Responsibilities
 
-## 📊 RAG Implementation Guide
+|   |   |   |
+|---|---|---|
+|**Role**|**Owner**|**Focus Area**|
+|**Infrastructure Lead**|**Andy**|Docker, AWS, Security, CI/CD, Scrum Master|
+|**Backend & AI Lead**|**Eunice**|Python Logic, LangGraph, Doc Parsing, API Dev|
+|**Domain & Data Lead**|**Vince**|**FIDIC Ontology Mapping**, Policy Packs, Gold Standard Testing|
 
-### Recommended Chunking Strategy
+## 📅 6. Current Sprint Goals (Skeleton Build)
 
-```python
-# 1. Load the markdown file
-with open('FIDIC-Red-Book-1999.md', 'r') as f:
-    content = f.read()
+**Target Date:** Dec 4, 2025
 
-# 2. Split by page headers
-pages = content.split('# Page ')
+1. **Infrastructure:** A runnable `docker-compose` environment on all developer machines.
+    
+2. **Ingestion:** A functional **Doc Parser** that extracts clauses from a PDF and maps them to the **FIDIC Graph Schema**.
+    
+3. **Reasoning:** A basic **LangGraph** workflow that takes a user query (e.g., "Claim for EOT"), references **FIDIC 8.4**, and returns a dummy response.
+    
 
-# 3. Filter empty pages (10-90)
-valid_pages = [
-    page for page in pages
-    if len(page.strip()) > 50  # Skip nearly empty pages
-]
-
-# 4. Create chunks with metadata
-chunks = []
-for page in valid_pages:
-    lines = page.split('\n', 1)
-    page_num = lines[0].strip()
-    text = lines[1] if len(lines) > 1 else ""
-
-    chunks.append({
-        'text': text,
-        'metadata': {
-            'page': page_num,
-            'source': 'FIDIC-Red-Book-1999',
-            'section': determine_section(page_num)  # Guidance/Forms/Annexes
-        }
-    })
-
-# 5. Generate embeddings and store in vector DB
-# (Use your preferred embedding model and vector store)
-```
-
-### Metadata Enrichment
-
-```python
-def determine_section(page_num):
-    """Map page numbers to document sections"""
-    page = int(page_num)
-    if page <= 9:
-        return "Front Matter"
-    elif 91 <= page <= 112:
-        return "Guidance for Particular Conditions"
-    elif 113 <= page <= 120:
-        return "Annexes (Security Forms)"
-    elif 121 <= page <= 128:
-        return "Sample Forms (Tender/Agreement)"
-    else:
-        return "Reserved Pages"
-```
-
-### Sample Vector DB Configuration
-
-```python
-# Example with Pinecone
-from pinecone import Pinecone
-from openai import OpenAI
-
-# Initialize
-pc = Pinecone(api_key="your-key")
-index = pc.Index("fidic-contracts")
-client = OpenAI()
-
-# Embed and upsert chunks
-for i, chunk in enumerate(chunks):
-    embedding = client.embeddings.create(
-        model="text-embedding-3-small",
-        input=chunk['text']
-    ).data[0].embedding
-
-    index.upsert(vectors=[(
-        f"fidic-page-{chunk['metadata']['page']}",
-        embedding,
-        chunk['metadata']
-    )])
-```
-
-## 🛠️ Technical Stack
-
-- **Language**: Python 3.14
-- **Package Manager**: uv (modern, fast, reliable)
-- **PDF Library**: PyMuPDF (`pymupdf>=1.26.6`)
-- **Output Format**: Markdown (UTF-8)
-
-### Dependencies
-
-```toml
-# pyproject.toml
-[project]
-name = "construction-legal-ai"
-version = "0.1.0"
-requires-python = ">=3.14"
-dependencies = [
-    "pymupdf>=1.26.6",
-]
-```
-
-## 📖 Document Statistics
-
-| Metric | Value |
-|--------|-------|
-| Total Pages | 128 |
-| File Size (PDF) | 4.0 MB |
-| File Size (Markdown) | 102 KB |
-| Word Count | ~25,000 words |
-| Content Pages | ~47 pages (excluding empty pages) |
-| Character Count | ~104,000 characters |
-
-## 🎓 Use Cases
-
-### 1. Contract Q&A System
-```
-User: "What documents are required for a tender security?"
-RAG: Retrieves Annex B (Tender Security form) + guidance
-```
-
-### 2. Clause Modification Advisor
-```
-User: "How should I modify payment terms for local currency?"
-RAG: Retrieves Clause 14 guidance + examples
-```
-
-### 3. Document Template Generator
-```
-User: "Generate a Letter of Tender for building project"
-RAG: Retrieves sample form + fills in placeholders
-```
-
-### 4. Compliance Checker
-```
-User: "Is my performance security format FIDIC-compliant?"
-RAG: Retrieves Annexes C & D + compares structure
-```
-
-## 🔄 Regenerating Outputs
-
-If you need to re-extract from the PDF:
-
-```bash
-# Run the parser
-uv run python src/pdf_parser.py
-
-# Output will be generated at project root
-ls -lh FIDIC-Red-Book-1999.md
-```
-
-## 📚 Additional Resources
-
-- **FIDIC Official**: [fidic.org](https://fidic.org)
-- **Original Document**: FIDIC Red Book 1999 (ISBN 2-88432-022-9)
-- **Technical Analysis**: See `docs/TECHNICAL_ANALYSIS.md`
-- **RAG Frameworks**: LangChain, LlamaIndex, Haystack
-
-## 🧹 Project Cleanup Notes
-
-**Recent Optimizations (2025-11-16):**
-- ❌ Removed redundant outputs (`.txt`, `.html` formats)
-- ❌ Removed duplicate parsers (`pdf_extractor.py`)
-- ❌ Removed structured JSON files (not needed for basic RAG)
-- ✅ Single source of truth: `FIDIC-Red-Book-1999.md`
-- ✅ Simplified codebase: One parser, one output
-- 💾 Storage saved: ~9.4 MB
-
-## 🤝 Contributing
-
-This project is designed for:
-- ✅ Academic research on construction contracts
-- ✅ RAG/LLM application development
-- ✅ Legal tech prototyping
-
-**Note**: FIDIC Red Book content is copyrighted by FIDIC. This tool is for authorized use only.
-
-## 📋 Next Steps
-
-### For RAG Implementation:
-1. ✅ Load `FIDIC-Red-Book-1999.md`
-2. ✅ Chunk by pages (filter empty pages 10-90)
-3. ✅ Generate embeddings (OpenAI/Cohere/HuggingFace)
-4. ✅ Store in vector DB (Pinecone/Weaviate/Chroma)
-5. ✅ Build query interface
-
-### For Complete Coverage:
-- [ ] Obtain FIDIC General Conditions (Clauses 1-20 full text)
-- [ ] Extract other FIDIC variants (Yellow/Silver Book)
-- [ ] Add construction case law for legal context
-- [ ] Include project-specific Particular Conditions examples
-
-## 📄 License
-
-This parser tool is for academic/research purposes.
-
-**Copyright Notice**: FIDIC Red Book content is copyrighted by FIDIC (Fédération Internationale des Ingénieurs-Conseils). Ensure you have proper licensing for commercial use.
-
----
-
-**Last Updated**: 2025-01-16
-**Status**: ✅ Production-ready for RAG applications
-**Primary Output**: `FIDIC-Red-Book-1999.md` (102KB markdown)
+_For detailed documentation, architecture diagrams, and API specs, please refer to the [Project Notion Wiki]._

@@ -1,0 +1,28 @@
+# OS-generated files
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.python-version
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# Tooling
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# Local databases and volumes
+neo4j/data/
+neo4j/logs/
+postgres/data/
+redis/data/
+

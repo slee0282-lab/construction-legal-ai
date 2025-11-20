@@ -1,0 +1,78 @@
+services:
+  backend:
+    build: ./backend
+    container_name: cla_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    depends_on:
+      - postgres
+      - neo4j
+      - redis
+    environment:
+      - POSTGRES_HOST=postgres
+      - NEO4J_URI=bolt://neo4j:7687
+      - REDIS_HOST=redis
+      # Point to host's Ollama instance
+      - OLLAMA_HOST=http://host.docker.internal:11434
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - cla_net
+
+  frontend:
+    build: ./frontend
+    container_name: cla_frontend
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./frontend:/app
+    depends_on:
+      - backend
+    networks:
+      - cla_net
+
+  neo4j:
+    image: neo4j:community
+    container_name: cla_neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    environment:
+      - NEO4J_AUTH=neo4j/password
+    volumes:
+      - ./neo4j/data:/data
+      - ./neo4j/logs:/logs
+    networks:
+      - cla_net
+
+  postgres:
+    image: postgres:15
+    container_name: cla_postgres
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=cla_db
+    volumes:
+      - ./postgres/data:/var/lib/postgresql/data
+    networks:
+      - cla_net
+
+  redis:
+    image: redis:alpine
+    container_name: cla_redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./redis/data:/data
+    networks:
+      - cla_net
+
+# Removed llm_engine service in favor of native Ollama on host
+
+networks:
+  cla_net:
+    driver: bridge
